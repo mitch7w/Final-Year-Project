@@ -1,0 +1,2 @@
+# Hashes of file build rules.
+18cfe3278b90bf4457976c1801584c53 freenect3.c

@@ -1,0 +1,14 @@
+%%
+%%  ISG@UP Lab Book Document Class (Index Style).
+%%  Copyright (C) 2014-2022, University of Pretoria.
+%%
+
+heading_prefix "{\\cmbrfamily\\bfseries\\large " % Insert in front of letter
+heading_suffix "\\hfil}\n\\nopagebreak\n\n"    % Append after letter
+headings_flag   1                              % Turn on headings (uppercase)
+group_skip     "\n\n\\indexspace\\indexspace\n"
+delim_0        "\\dotfill "                    % Right justified numbers
+delim_1        "\\dotfill "                    %  with eye guidelines
+delim_2        "\\dotfill "
+
+%% End of File.

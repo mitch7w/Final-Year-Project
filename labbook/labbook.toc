@@ -1,0 +1,124 @@
+\babel@toc {british}{}\relax 
+\contentsline {chapter}{\numberline {1}2022 March}{5}{chapter.1}%
+\contentsline {section}{2022/03/30}{5}{section*.3}%
+\contentsline {subsection}{Background reading and research}{5}{subsection*.4}%
+\contentsline {section}{2022/03/31}{7}{section*.5}%
+\contentsline {subsection}{Prototype ideas}{7}{subsection*.6}%
+\contentsline {subsection}{Literature Analysis}{7}{subsection*.7}%
+\contentsline {subsection}{Impact on system to be developed}{8}{subsection*.8}%
+\contentsline {chapter}{\numberline {2}2022 April}{10}{chapter.2}%
+\contentsline {section}{2022/04/01}{10}{section*.9}%
+\contentsline {subsection}{Initial prototypes}{10}{subsection*.10}%
+\contentsline {section}{2022/04/03}{13}{section*.14}%
+\contentsline {subsection}{Functional block diagram updates}{13}{subsection*.15}%
+\contentsline {subsection}{Initial hardware prototypes}{13}{subsection*.17}%
+\contentsline {section}{2022/04/04}{16}{section*.21}%
+\contentsline {subsection}{Project proposal improvements}{16}{subsection*.22}%
+\contentsline {section}{2022/04/05}{17}{section*.23}%
+\contentsline {subsection}{Embedded neural network prototype}{17}{subsection*.24}%
+\contentsline {section}{2022/04/14}{19}{section*.27}%
+\contentsline {subsection}{Libfreenect demonstration program}{19}{subsection*.28}%
+\contentsline {section}{2022/04/15}{20}{section*.29}%
+\contentsline {subsection}{Libfreenect testing}{20}{subsection*.30}%
+\contentsline {section}{2022/04/20}{21}{section*.32}%
+\contentsline {subsection}{Initial Version Of Experimental Plan}{21}{subsection*.33}%
+\contentsline {section}{2022/04/30}{23}{section*.34}%
+\contentsline {subsection}{Image thresholding prototypes}{23}{subsection*.35}%
+\contentsline {chapter}{\numberline {3}2022 May}{26}{chapter.3}%
+\contentsline {section}{2022/05/07}{26}{section*.43}%
+\contentsline {subsection}{Libfreenect library installation}{26}{subsection*.44}%
+\contentsline {section}{2022/05/07}{28}{section*.46}%
+\contentsline {subsection}{Virtual object control prototype using gesture input}{28}{subsection*.47}%
+\contentsline {section}{2022/05/09}{30}{section*.50}%
+\contentsline {subsection}{Joint regression research}{30}{subsection*.51}%
+\contentsline {section}{2022/05/16}{31}{section*.52}%
+\contentsline {subsection}{Webcam resolution prototype}{31}{subsection*.53}%
+\contentsline {subsection}{Neural network prototype}{31}{subsection*.54}%
+\contentsline {section}{2022/05/17}{35}{section*.61}%
+\contentsline {subsection}{Kernel Functions Experimentation}{35}{subsection*.62}%
+\contentsline {section}{2022/05/31}{38}{section*.68}%
+\contentsline {subsection}{OpenGL Cube Experimentation}{38}{subsection*.69}%
+\contentsline {chapter}{\numberline {4}2022 June}{40}{chapter.4}%
+\contentsline {section}{2022/06/06}{40}{section*.72}%
+\contentsline {subsection}{Further OpenGL Prototyping}{40}{subsection*.73}%
+\contentsline {section}{2022/06/07}{42}{section*.75}%
+\contentsline {subsection}{OpenGL And Mediapipe Prototyping}{42}{subsection*.76}%
+\contentsline {section}{2022/06/17}{44}{section*.78}%
+\contentsline {subsection}{Project Proposal Revision}{44}{subsection*.79}%
+\contentsline {chapter}{\numberline {5}2022 July}{46}{chapter.5}%
+\contentsline {section}{2022/07/06}{46}{section*.80}%
+\contentsline {subsection}{Convolution and max pooling algorithms}{46}{subsection*.81}%
+\contentsline {section}{2022/07/07}{49}{section*.84}%
+\contentsline {subsection}{CNN backpropogation for convolutional layers}{49}{subsection*.85}%
+\contentsline {section}{2022/07/08}{50}{section*.86}%
+\contentsline {subsection}{Basic CNN testing}{50}{subsection*.87}%
+\contentsline {section}{2022/07/12}{51}{section*.88}%
+\contentsline {subsection}{Troubleshooting exploding weights and saturating neurons}{51}{subsection*.89}%
+\contentsline {section}{2022/07/13}{52}{section*.90}%
+\contentsline {subsection}{Output debugging in a textfile}{52}{subsection*.91}%
+\contentsline {section}{2022/07/14}{53}{section*.92}%
+\contentsline {subsection}{MNIST hand-written digit classifier}{53}{subsection*.93}%
+\contentsline {section}{2022/07/16}{54}{section*.95}%
+\contentsline {subsection}{Single hand coordinate classifier}{54}{subsection*.96}%
+\contentsline {section}{2022/07/19}{56}{section*.98}%
+\contentsline {subsection}{Gesture classifier}{56}{subsection*.99}%
+\contentsline {section}{2022/07/25}{59}{section*.105}%
+\contentsline {subsection}{Kinect camera edge detection}{59}{subsection*.106}%
+\contentsline {section}{2022/07/26}{61}{section*.109}%
+\contentsline {subsection}{Neural network refactoring }{61}{subsection*.110}%
+\contentsline {chapter}{\numberline {6}2022 August}{62}{chapter.6}%
+\contentsline {section}{2022/08/01}{62}{section*.111}%
+\contentsline {subsection}{First draft of literature review for first-semester report.}{62}{subsection*.112}%
+\contentsline {subsection}{OpenGL Movement API}{63}{subsection*.113}%
+\contentsline {section}{2022/08/02}{65}{section*.115}%
+\contentsline {subsection}{Neural network convolutional layers}{65}{subsection*.116}%
+\contentsline {section}{2022/08/03}{66}{section*.117}%
+\contentsline {subsection}{More training data for gesture classifier}{66}{subsection*.118}%
+\contentsline {section}{2022/08/04}{67}{section*.119}%
+\contentsline {subsection}{Kinect Segmenting Prototyping And Keras Gesture learning}{67}{subsection*.120}%
+\contentsline {section}{2022/08/05}{70}{section*.125}%
+\contentsline {subsection}{First Semester Report Submitted}{70}{subsection*.126}%
+\contentsline {subsection}{Fixing Dying Relu Problem}{71}{subsection*.127}%
+\contentsline {subsection}{Retraining of basic gesture classifier with convolutional network}{72}{subsection*.128}%
+\contentsline {section}{2022/08/05}{73}{section*.129}%
+\contentsline {subsection}{Brainstorming collision avoidance pipeline}{73}{subsection*.130}%
+\contentsline {section}{2022/08/09}{75}{section*.134}%
+\contentsline {subsection}{Brainstorming segmentation and more efficient algorithms}{75}{subsection*.135}%
+\contentsline {section}{2022/08/11}{76}{section*.137}%
+\contentsline {subsection}{Using the Keras and Tensorflow libraries to train networks}{76}{subsection*.138}%
+\contentsline {section}{2022/08/15}{80}{section*.146}%
+\contentsline {subsection}{Discussion of current gesture recognition system inadequacies}{80}{subsection*.147}%
+\contentsline {section}{2022/08/16}{82}{section*.151}%
+\contentsline {subsection}{Construction of updated prototype implementation}{82}{subsection*.152}%
+\contentsline {section}{2022/08/18}{85}{section*.157}%
+\contentsline {subsection}{Gesture recognition system changes and demonstration planning}{85}{subsection*.158}%
+\contentsline {section}{2022/08/19}{87}{section*.161}%
+\contentsline {subsection}{Hand locator}{87}{subsection*.162}%
+\contentsline {section}{2022/08/23}{89}{section*.165}%
+\contentsline {subsection}{Hand locator changes}{89}{subsection*.166}%
+\contentsline {section}{2022/08/24}{90}{section*.168}%
+\contentsline {subsection}{World Coordinate System}{90}{subsection*.169}%
+\contentsline {section}{2022/08/25}{91}{section*.171}%
+\contentsline {subsection}{Virtual Object Rendering Changes}{91}{subsection*.172}%
+\contentsline {section}{2022/08/30}{92}{section*.174}%
+\contentsline {subsection}{Improvements to hand tracking and extracting}{92}{subsection*.175}%
+\contentsline {section}{2022/08/31}{93}{section*.176}%
+\contentsline {subsection}{Hand directions neural network}{93}{subsection*.177}%
+\contentsline {chapter}{\numberline {7}2022 September}{95}{chapter.7}%
+\contentsline {section}{2022/09/07}{95}{section*.180}%
+\contentsline {subsection}{First principles neural network}{95}{subsection*.181}%
+\contentsline {section}{2022/09/09}{97}{section*.183}%
+\contentsline {subsection}{Kinect side-on hand tracking}{97}{subsection*.184}%
+\contentsline {section}{2022/09/12}{98}{section*.186}%
+\contentsline {subsection}{Speeding up first-principles neural network}{98}{subsection*.187}%
+\contentsline {section}{2022/09/22}{99}{section*.189}%
+\contentsline {subsection}{Integrated prototype}{99}{subsection*.190}%
+\contentsline {chapter}{\numberline {8}2022 October}{101}{chapter.8}%
+\contentsline {section}{2022/10/03}{101}{section*.196}%
+\contentsline {subsection}{Final version of literature review}{101}{subsection*.197}%
+\contentsline {section}{2022/10/10}{107}{section*.198}%
+\contentsline {subsection}{Revised Final version of literature review}{107}{subsection*.199}%
+\contentsline {subsection}{Final implementation progress}{112}{subsection*.200}%
+\contentsline {chapter}{Appendices}{114}{section*.201}%
+\contentsline {section}{Acronyms}{114}{section*.202}%
+\contentsline {chapter}{References}{116}{figure.caption.203}%

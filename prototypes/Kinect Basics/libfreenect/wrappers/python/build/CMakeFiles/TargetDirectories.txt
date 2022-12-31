@@ -1,0 +1,7 @@
+/Users/mitch/Documents/University/Project/Project GitLab/prototypes/Kinect Basics/libfreenect/wrappers/python/build/CMakeFiles/cython3_freenect.dir
+/Users/mitch/Documents/University/Project/Project GitLab/prototypes/Kinect Basics/libfreenect/wrappers/python/build/CMakeFiles/edit_cache.dir
+/Users/mitch/Documents/University/Project/Project GitLab/prototypes/Kinect Basics/libfreenect/wrappers/python/build/CMakeFiles/rebuild_cache.dir
+/Users/mitch/Documents/University/Project/Project GitLab/prototypes/Kinect Basics/libfreenect/wrappers/python/build/CMakeFiles/list_install_components.dir
+/Users/mitch/Documents/University/Project/Project GitLab/prototypes/Kinect Basics/libfreenect/wrappers/python/build/CMakeFiles/install.dir
+/Users/mitch/Documents/University/Project/Project GitLab/prototypes/Kinect Basics/libfreenect/wrappers/python/build/CMakeFiles/install/local.dir
+/Users/mitch/Documents/University/Project/Project GitLab/prototypes/Kinect Basics/libfreenect/wrappers/python/build/CMakeFiles/install/strip.dir

@@ -1,0 +1,224 @@
+<div class="gControlContainer">
+    <h1>Gesture Control Of Object In Augmented Reality</h1>
+    <p>Built using TeachableMachine to build a small Tensorflow model to differentiate between an open and closed fist - the results of which are then used to rotate a 3D cube.</p>
+    <button type="button" onclick="init()">Start</button>
+    <div id="webcam-container"></div>
+    <div id="label-container"></div>
+
+    <div class="scene">
+        <div class="cube">
+            <div class="cube__face cube__face--front">front</div>
+            <div class="cube__face cube__face--back">back</div>
+            <div class="cube__face cube__face--right">right</div>
+            <div class="cube__face cube__face--left">left</div>
+            <div class="cube__face cube__face--top">top</div>
+            <div class="cube__face cube__face--bottom">bottom</div>
+        </div>
+    </div>
+</div>
+
+<script src="https://cdn.jsdelivr.net/npm/@tensorflow/tfjs@1.3.1/dist/tf.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/@teachablemachine/image@0.8/dist/teachablemachine-image.min.js"></script>
+<script type="text/javascript">
+    // More API functions here:
+    // https://github.com/googlecreativelab/teachablemachine-community/tree/master/libraries/image
+
+    // the link to your model provided by Teachable Machine export panel
+    const URL = "https://teachablemachine.withgoogle.com/models/PRcWz5jSKr/";
+
+    let model, webcam, labelContainer, maxPredictions;
+
+    var cube = document.querySelector('.cube');
+    var posAlready = "top";
+
+    // Load the image model and setup the webcam
+    async function init() {
+        cube.classList.add("show-top");
+        const modelURL = URL + "model.json";
+        const metadataURL = URL + "metadata.json";
+
+        // load the model and metadata
+        // Refer to tmImage.loadFromFiles() in the API to support files from a file picker
+        // or files from your local hard drive
+        // Note: the pose library adds "tmImage" object to your window (window.tmImage)
+        model = await tmImage.load(modelURL, metadataURL);
+        maxPredictions = model.getTotalClasses();
+
+        // Convenience function to setup a webcam
+        const flip = true; // whether to flip the webcam
+        webcam = new tmImage.Webcam(200, 200, flip); // width, height, flip
+        await webcam.setup(); // request access to the webcam
+        await webcam.play();
+        window.requestAnimationFrame(loop);
+
+        // append elements to the DOM
+        document.getElementById("webcam-container").appendChild(webcam.canvas);
+        labelContainer = document.getElementById("label-container");
+        for (let i = 0; i < maxPredictions; i++) { // and class labels
+            labelContainer.appendChild(document.createElement("div"));
+        }
+    }
+    
+    async function loop() {
+        webcam.update(); // update the webcam frame
+        await predict();
+        window.requestAnimationFrame(loop);
+    }
+    // run the webcam image through the image model
+    async function predict() {
+        // predict can take in an image, video or canvas html element
+        const prediction = await model.predict(webcam.canvas);
+        for (let i = 0; i < maxPredictions; i++) {
+            const classPrediction =
+                prediction[i].className + ": " + prediction[i].probability.toFixed(2);
+            labelContainer.childNodes[i].innerHTML = classPrediction;
+        }
+        // open hand
+        if (prediction[0].probability.toFixed(2) > 0.8) {
+            if (posAlready != "left") {
+                cube.classList.remove("show-top");
+                cube.classList.add("show-left");
+                posAlready = "left";
+            }
+        }
+        // fist
+        if (prediction[1].probability.toFixed(2) > 0.8) {
+            if (posAlready != "top") {
+                cube.classList.remove("show-left");
+                cube.classList.add("show-top");
+                posAlready = "top";
+            }
+        }
+
+    }
+</script>
+
+<style>
+    @import url('https://fonts.googleapis.com/css2?family=Luckiest+Guy&display=swap');
+
+    h1 {
+        padding: 1rem ;
+    }
+
+    p {
+        font-family: 'Courier New', Courier, monospace;
+    }
+
+    .gControlContainer {
+        width: 80% ;
+        margin: auto ;
+    }
+
+    * {
+        box-sizing: border-box;
+    }
+
+    body {
+        font-family: 'Luckiest Guy', cursive;
+    }
+
+    .scene {
+        width: 200px;
+        height: 200px;
+        border: 1px solid #CCC;
+        margin: 80px;
+        perspective: 400px;
+    }
+
+    .cube {
+        width: 200px;
+        height: 200px;
+        position: relative;
+        transform-style: preserve-3d;
+        transform: translateZ(-100px);
+        transition: transform 1s;
+    }
+
+    .cube.show-front {
+        transform: translateZ(-100px) rotateY(0deg);
+    }
+
+    .cube.show-right {
+        transform: translateZ(-100px) rotateY(-90deg);
+    }
+
+    .cube.show-back {
+        transform: translateZ(-100px) rotateY(-180deg);
+    }
+
+    .cube.show-left {
+        transform: translateZ(-100px) rotateY(90deg);
+    }
+
+    .cube.show-top {
+        transform: translateZ(-100px) rotateX(-90deg);
+    }
+
+    .cube.show-bottom {
+        transform: translateZ(-100px) rotateX(90deg);
+    }
+
+    .cube__face {
+        position: absolute;
+        width: 200px;
+        height: 200px;
+        border: 2px solid black;
+        line-height: 200px;
+        font-size: 40px;
+        font-weight: bold;
+        color: white;
+        text-align: center;
+    }
+
+    .cube__face--front {
+        background: hsla(0, 100%, 50%, 0.7);
+    }
+
+    .cube__face--right {
+        background: hsla(60, 100%, 50%, 0.7);
+    }
+
+    .cube__face--back {
+        background: hsla(120, 100%, 50%, 0.7);
+    }
+
+    .cube__face--left {
+        background: hsla(180, 100%, 50%, 0.7);
+    }
+
+    .cube__face--top {
+        background: hsla(240, 100%, 50%, 0.7);
+    }
+
+    .cube__face--bottom {
+        background: hsla(300, 100%, 50%, 0.7);
+    }
+
+    .cube__face--front {
+        transform: rotateY(0deg) translateZ(100px);
+    }
+
+    .cube__face--right {
+        transform: rotateY(90deg) translateZ(100px);
+    }
+
+    .cube__face--back {
+        transform: rotateY(180deg) translateZ(100px);
+    }
+
+    .cube__face--left {
+        transform: rotateY(-90deg) translateZ(100px);
+    }
+
+    .cube__face--top {
+        transform: rotateX(90deg) translateZ(100px);
+    }
+
+    .cube__face--bottom {
+        transform: rotateX(-90deg) translateZ(100px);
+    }
+
+    label {
+        margin-right: 10px;
+    }
+</style>

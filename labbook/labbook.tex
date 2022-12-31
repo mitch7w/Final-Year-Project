@@ -1,0 +1,105 @@
+%%
+%%  ISG@UP Lab Book Document Class.
+%%  Copyright (C) 2014-2022, University of Pretoria.
+%%
+
+%% Control directives for rubber LaTeX build system
+% rubber: makeidx.style isglabbook.ist
+
+\documentclass[11pt,a4paper]{isglabbook}
+
+%% Document specific overrides.
+\newcommand{\doctype}{Lab Book}
+\newcommand{\docauthor}{Mitchell Luke Williams}
+\newcommand{\docstudentnumber}{18013555}
+
+%% Configure PDF information
+\hypersetup{
+  pdftitle={\doctype},
+  pdfauthor={\docauthor\ - \docstudentnumber},
+  pdfsubject={\eeceup},
+  pdfkeywords={\doctype}
+}
+
+%% Switch to package specific header/footer format
+\pagestyle{fancyisg}
+
+% Code listing setup
+
+\usepackage{listings}
+\usepackage{color}
+
+\definecolor{dkgreen}{rgb}{0,0.6,0}
+\definecolor{gray}{rgb}{0.5,0.5,0.5}
+\definecolor{mauve}{rgb}{0.58,0,0.82}
+
+\lstset{frame=tb,
+   language=Python,
+   aboveskip=3mm,
+   belowskip=3mm,
+   showstringspaces=false,
+   columns=flexible,
+   basicstyle={\small\ttfamily},
+   numbers=none,
+   numberstyle=\tiny\color{gray},
+   keywordstyle=\color{blue},
+   commentstyle=\color{dkgreen},
+   stringstyle=\color{mauve},
+   breaklines=true,
+   breakatwhitespace=true
+   tabsize=3
+   }
+
+\begin{document}
+\pagenumbering{arabic}
+
+% Front Matter
+\input{title}
+
+% Table / Lists
+\pdfbookmark[1]{Contents}{sec:toc}
+{\small\cmbrfamily\tableofcontents}
+\newpage
+
+%% Document Body
+\renewcommand{\baselinestretch}{1.5}
+\subimport{2022/}{202203}
+\subimport{2022/}{202204}
+\subimport{2022/}{202205}
+\subimport{2022/}{202206}
+\subimport{2022/}{202207}
+\subimport{2022/}{202208}
+\subimport{2022/}{202209}
+\subimport{2022/}{202210}
+% \subimport{2022/}{202211}
+
+%% Appendices
+\newpage
+\appendix
+\appendixpage
+\addappheadtotoc
+\input{acros}
+
+\begin{figure}[h]
+  \centering
+  \includegraphics[width=0.9\linewidth]{2022/figures/appendix/email_embedded.png}
+  \caption{Email dated Friday 17 June 2022 between Mr. Grobler and Mr. Williams}
+  \label{fig:grobler_email}
+\end{figure}
+
+
+%% Bibliography
+\newpage
+\addcontentsline{toc}{chapter}{References}
+\bibliographystyle{ieeetr}
+\bibliography{references}
+
+%% Back Matter / Index
+\newpage
+\addcontentsline{toc}{chapter}{Index}
+\printindex
+
+%% The End
+\end{document}
+
+%% End of File.

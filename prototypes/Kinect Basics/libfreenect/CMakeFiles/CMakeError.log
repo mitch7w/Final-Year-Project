@@ -1,0 +1,38 @@
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc 
+Build flags: 
+Id flags:  
+
+The output was:
+1
+ld: library not found for -lSystem
+clang: error: linker command failed with exit code 1 (use -v to see invocation)
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ 
+Build flags: 
+Id flags:  
+
+The output was:
+1
+ld: library not found for -lc++
+clang: error: linker command failed with exit code 1 (use -v to see invocation)
+
+
+Determining if the function pthread_create exists in the pthreads failed with the following output:
+Change Dir: /Users/mitch/Documents/University/Project/Project GitLab/prototypes/Kinect Basics/libfreenect/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make -f Makefile cmTC_e4107/fast && /Applications/Xcode.app/Contents/Developer/usr/bin/make  -f CMakeFiles/cmTC_e4107.dir/build.make CMakeFiles/cmTC_e4107.dir/build
+Building C object CMakeFiles/cmTC_e4107.dir/CheckFunctionExists.c.o
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc   -Wall -O2  -DCHECK_FUNCTION_EXISTS=pthread_create -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.3.sdk -MD -MT CMakeFiles/cmTC_e4107.dir/CheckFunctionExists.c.o -MF CMakeFiles/cmTC_e4107.dir/CheckFunctionExists.c.o.d -o CMakeFiles/cmTC_e4107.dir/CheckFunctionExists.c.o -c /opt/homebrew/Cellar/cmake/3.23.0/share/cmake/Modules/CheckFunctionExists.c
+Linking C executable cmTC_e4107
+/opt/homebrew/Cellar/cmake/3.23.0/bin/cmake -E cmake_link_script CMakeFiles/cmTC_e4107.dir/link.txt --verbose=1
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc -Wall -O2  -DCHECK_FUNCTION_EXISTS=pthread_create -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.3.sdk -Wl,-search_paths_first -Wl,-headerpad_max_install_names CMakeFiles/cmTC_e4107.dir/CheckFunctionExists.c.o -o cmTC_e4107  -lpthreads 
+ld: library not found for -lpthreads
+clang: error: linker command failed with exit code 1 (use -v to see invocation)
+make[1]: *** [cmTC_e4107] Error 1
+make: *** [cmTC_e4107/fast] Error 2
+
+
+

@@ -1,0 +1,3065 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.23 (TeX Live 2022/dev) (preloaded format=pdflatex 2022.3.23)  10 OCT 2022 10:43
+entering extended mode
+ restricted \write18 enabled.
+ file:line:error style messages enabled.
+ %&-line parsing enabled.
+**"/Users/mitch/Documents/University/Project/Project GitLab/labbook/labbook.tex"
+(/Users/mitch/Documents/University/Project/Project GitLab/labbook/labbook.tex
+LaTeX2e <2021-11-15> patch level 1
+L3 programming layer <2022-02-24> (./isglabbook.cls
+Document Class: isglabbook 2015/03/02 v1.5 ISG@UP Lab Book Document Class
+(/usr/local/texlive/2021/texmf-dist/tex/latex/base/report.cls
+Document Class: report 2021/10/04 v1.4n Standard LaTeX document class
+(/usr/local/texlive/2021/texmf-dist/tex/latex/base/size11.clo
+File: size11.clo 2021/10/04 v1.4n Standard LaTeX file (size option)
+)
+\c@part=\count185
+\c@chapter=\count186
+\c@section=\count187
+\c@subsection=\count188
+\c@subsubsection=\count189
+\c@paragraph=\count190
+\c@subparagraph=\count191
+\c@figure=\count192
+\c@table=\count193
+\abovecaptionskip=\skip47
+\belowcaptionskip=\skip48
+\bibindent=\dimen138
+) (/usr/local/texlive/2021/texmf-dist/tex/latex/import/import.sty
+Package: import 2020/04/01  v 6.2
+) (/usr/local/texlive/2021/texmf-dist/tex/latex/geometry/geometry.sty
+Package: geometry 2020/01/02 v5.9 Page Geometry
+ (/usr/local/texlive/2021/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks16
+) (/usr/local/texlive/2021/texmf-dist/tex/generic/iftex/ifvtex.sty
+Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
+ (/usr/local/texlive/2021/texmf-dist/tex/generic/iftex/iftex.sty
+Package: iftex 2022/02/03 v1.0f TeX engine tests
+))
+\Gm@cnth=\count194
+\Gm@cntv=\count195
+\c@Gm@tempcnt=\count196
+\Gm@bindingoffset=\dimen139
+\Gm@wd@mp=\dimen140
+\Gm@odd@mp=\dimen141
+\Gm@even@mp=\dimen142
+\Gm@layoutwidth=\dimen143
+\Gm@layoutheight=\dimen144
+\Gm@layouthoffset=\dimen145
+\Gm@layoutvoffset=\dimen146
+\Gm@dimlist=\toks17
+) (/usr/local/texlive/2021/texmf-dist/tex/latex/xcolor/xcolor.sty
+Package: xcolor 2021/10/31 v2.13 LaTeX color extensions (UK)
+ (/usr/local/texlive/2021/texmf-dist/tex/latex/graphics-cfg/color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: pdftex.def on input line 227.
+ (/usr/local/texlive/2021/texmf-dist/tex/latex/graphics-def/pdftex.def
+File: pdftex.def 2020/10/05 v1.2a Graphics/color driver for pdftex
+) (/usr/local/texlive/2021/texmf-dist/tex/latex/colortbl/colortbl.sty
+Package: colortbl 2020/01/04 v1.0e Color table columns (DPC)
+ (/usr/local/texlive/2021/texmf-dist/tex/latex/tools/array.sty
+Package: array 2021/10/04 v2.5f Tabular extension package (FMi)
+\col@sep=\dimen147
+\ar@mcellbox=\box50
+\extrarowheight=\dimen148
+\NC@list=\toks18
+\extratabsurround=\skip49
+\backup@length=\skip50
+\ar@cellbox=\box51
+)
+\everycr=\toks19
+\minrowclearance=\skip51
+)
+\rownum=\count197
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1352.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1356.
+Package xcolor Info: Model `RGB' extended on input line 1368.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1370.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1371.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1372.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1373.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1374.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1375.
+) (/usr/local/texlive/2021/texmf-dist/tex/latex/microtype/microtype.sty
+Package: microtype 2022/03/14 v3.0d Micro-typographical refinements (RS)
+ (/usr/local/texlive/2021/texmf-dist/tex/latex/etoolbox/etoolbox.sty
+Package: etoolbox 2020/10/05 v2.5k e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count198
+)
+\MT@toks=\toks20
+\MT@tempbox=\box52
+\MT@count=\count199
+LaTeX Info: Redefining \noprotrusionifhmode on input line 1027.
+LaTeX Info: Redefining \leftprotrusion on input line 1028.
+LaTeX Info: Redefining \rightprotrusion on input line 1036.
+LaTeX Info: Redefining \textls on input line 1195.
+\MT@outer@kern=\dimen149
+LaTeX Info: Redefining \textmicrotypecontext on input line 1781.
+\MT@listname@count=\count266
+ (/usr/local/texlive/2021/texmf-dist/tex/latex/microtype/microtype-pdftex.def
+File: microtype-pdftex.def 2022/03/14 v3.0d Definitions specific to pdftex (RS)
+LaTeX Info: Redefining \lsstyle on input line 900.
+LaTeX Info: Redefining \lslig on input line 900.
+\MT@outer@space=\skip52
+)
+Package microtype Info: Loading configuration file microtype.cfg.
+ (/usr/local/texlive/2021/texmf-dist/tex/latex/microtype/microtype.cfg
+File: microtype.cfg 2022/03/14 v3.0d microtype main configuration file (RS)
+)) (/usr/local/texlive/2021/texmf-dist/tex/latex/lm/lmodern.sty
+Package: lmodern 2015/05/01 v1.6.1 Latin Modern Fonts
+LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
+(Font)                  OT1/cmr/m/n --> OT1/lmr/m/n on input line 22.
+LaTeX Font Info:    Overwriting symbol font `letters' in version `normal'
+(Font)                  OML/cmm/m/it --> OML/lmm/m/it on input line 23.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `normal'
+(Font)                  OMS/cmsy/m/n --> OMS/lmsy/m/n on input line 24.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `normal'
+(Font)                  OMX/cmex/m/n --> OMX/lmex/m/n on input line 25.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
+(Font)                  OT1/cmr/bx/n --> OT1/lmr/bx/n on input line 26.
+LaTeX Font Info:    Overwriting symbol font `letters' in version `bold'
+(Font)                  OML/cmm/b/it --> OML/lmm/b/it on input line 27.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `bold'
+(Font)                  OMS/cmsy/b/n --> OMS/lmsy/b/n on input line 28.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `bold'
+(Font)                  OMX/cmex/m/n --> OMX/lmex/m/n on input line 29.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
+(Font)                  OT1/cmr/bx/n --> OT1/lmr/bx/n on input line 31.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
+(Font)                  OT1/cmss/m/n --> OT1/lmss/m/n on input line 32.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
+(Font)                  OT1/cmr/m/it --> OT1/lmr/m/it on input line 33.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
+(Font)                  OT1/cmtt/m/n --> OT1/lmtt/m/n on input line 34.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
+(Font)                  OT1/cmr/bx/n --> OT1/lmr/bx/n on input line 35.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
+(Font)                  OT1/cmss/bx/n --> OT1/lmss/bx/n on input line 36.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
+(Font)                  OT1/cmr/bx/it --> OT1/lmr/bx/it on input line 37.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
+(Font)                  OT1/cmtt/m/n --> OT1/lmtt/m/n on input line 38.
+) (/usr/local/texlive/2021/texmf-dist/tex/latex/base/fontenc.sty
+Package: fontenc 2021/04/29 v2.0v Standard LaTeX package
+LaTeX Font Info:    Trying to load font information for T1+lmr on input line 112.
+ (/usr/local/texlive/2021/texmf-dist/tex/latex/lm/t1lmr.fd
+File: t1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
+)) (/usr/local/texlive/2021/texmf-dist/tex/latex/base/textcomp.sty
+Package: textcomp 2020/02/02 v2.0n Standard LaTeX package
+) (/usr/local/texlive/2021/texmf-dist/tex/latex/base/fix-cm.sty
+Package: fix-cm 2020/11/24 v1.1t fixes to LaTeX
+ (/usr/local/texlive/2021/texmf-dist/tex/latex/base/ts1enc.def
+File: ts1enc.def 2001/06/05 v3.0e (jk/car/fm) Standard LaTeX file
+LaTeX Font Info:    Redeclaring font encoding TS1 on input line 47.
+)) (/usr/local/texlive/2021/texmf-dist/tex/latex/psnfss/mathptmx.sty
+Package: mathptmx 2020/03/25 PSNFSS-v9.3 Times w/ Math, improved (SPQR, WaS) 
+LaTeX Font Info:    Redeclaring symbol font `operators' on input line 28.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
+(Font)                  OT1/lmr/m/n --> OT1/ztmcm/m/n on input line 28.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
+(Font)                  OT1/lmr/bx/n --> OT1/ztmcm/m/n on input line 28.
+LaTeX Font Info:    Redeclaring symbol font `letters' on input line 29.
+LaTeX Font Info:    Overwriting symbol font `letters' in version `normal'
+(Font)                  OML/lmm/m/it --> OML/ztmcm/m/it on input line 29.
+LaTeX Font Info:    Overwriting symbol font `letters' in version `bold'
+(Font)                  OML/lmm/b/it --> OML/ztmcm/m/it on input line 29.
+LaTeX Font Info:    Redeclaring symbol font `symbols' on input line 30.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `normal'
+(Font)                  OMS/lmsy/m/n --> OMS/ztmcm/m/n on input line 30.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `bold'
+(Font)                  OMS/lmsy/b/n --> OMS/ztmcm/m/n on input line 30.
+LaTeX Font Info:    Redeclaring symbol font `largesymbols' on input line 31.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `normal'
+(Font)                  OMX/lmex/m/n --> OMX/ztmcm/m/n on input line 31.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `bold'
+(Font)                  OMX/lmex/m/n --> OMX/ztmcm/m/n on input line 31.
+\symbold=\mathgroup4
+\symitalic=\mathgroup5
+LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 34.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
+(Font)                  OT1/lmr/bx/n --> OT1/ptm/bx/n on input line 34.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
+(Font)                  OT1/lmr/bx/n --> OT1/ptm/bx/n on input line 34.
+LaTeX Font Info:    Redeclaring math alphabet \mathit on input line 35.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
+(Font)                  OT1/lmr/m/it --> OT1/ptm/m/it on input line 35.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
+(Font)                  OT1/lmr/bx/it --> OT1/ptm/m/it on input line 35.
+LaTeX Info: Redefining \hbar on input line 50.
+) (/usr/local/texlive/2021/texmf-dist/tex/latex/psnfss/helvet.sty
+Package: helvet 2020/03/25 PSNFSS-v9.3 (WaS) 
+) (/usr/local/texlive/2021/texmf-dist/tex/latex/psnfss/courier.sty
+Package: courier 2020/03/25 PSNFSS-v9.3 (WaS) 
+) (/usr/local/texlive/2021/texmf-dist/tex/latex/psnfss/pifont.sty
+Package: pifont 2020/03/25 PSNFSS-v9.3 Pi font support (SPQR) 
+LaTeX Font Info:    Trying to load font information for U+pzd on input line 63.
+ (/usr/local/texlive/2021/texmf-dist/tex/latex/psnfss/upzd.fd
+File: upzd.fd 2001/06/04 font definitions for U/pzd.
+)
+LaTeX Font Info:    Trying to load font information for U+psy on input line 64.
+ (/usr/local/texlive/2021/texmf-dist/tex/latex/psnfss/upsy.fd
+File: upsy.fd 2001/06/04 font definitions for U/psy.
+)) (/usr/local/texlive/2021/texmf-dist/tex/latex/amsmath/amsmath.sty
+Package: amsmath 2021/10/15 v2.17l AMS math features
+\@mathmargin=\skip53
+
+For additional information on amsmath, use the `?' option.
+(/usr/local/texlive/2021/texmf-dist/tex/latex/amsmath/amstext.sty
+Package: amstext 2021/08/26 v2.01 AMS text
+ (/usr/local/texlive/2021/texmf-dist/tex/latex/amsmath/amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks21
+\ex@=\dimen150
+)) (/usr/local/texlive/2021/texmf-dist/tex/latex/amsmath/amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen151
+) (/usr/local/texlive/2021/texmf-dist/tex/latex/amsmath/amsopn.sty
+Package: amsopn 2021/08/26 v2.02 operator names
+)
+\inf@bad=\count267
+LaTeX Info: Redefining \frac on input line 234.
+\uproot@=\count268
+\leftroot@=\count269
+LaTeX Info: Redefining \overline on input line 399.
+\classnum@=\count270
+\DOTSCASE@=\count271
+LaTeX Info: Redefining \ldots on input line 496.
+LaTeX Info: Redefining \dots on input line 499.
+LaTeX Info: Redefining \cdots on input line 620.
+\Mathstrutbox@=\box53
+\strutbox@=\box54
+\big@size=\dimen152
+LaTeX Font Info:    Redeclaring font encoding OML on input line 743.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 744.
+\macc@depth=\count272
+\c@MaxMatrixCols=\count273
+\dotsspace@=\muskip16
+\c@parentequation=\count274
+\dspbrk@lvl=\count275
+\tag@help=\toks22
+\row@=\count276
+\column@=\count277
+\maxfields@=\count278
+\andhelp@=\toks23
+\eqnshift@=\dimen153
+\alignsep@=\dimen154
+\tagshift@=\dimen155
+\tagwidth@=\dimen156
+\totwidth@=\dimen157
+\lineht@=\dimen158
+\@envbody=\toks24
+\multlinegap=\skip54
+\multlinetaggap=\skip55
+\mathdisplay@stack=\toks25
+LaTeX Info: Redefining \[ on input line 2938.
+LaTeX Info: Redefining \] on input line 2939.
+) (/usr/local/texlive/2021/texmf-dist/tex/latex/amsfonts/amsfonts.sty
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\symAMSa=\mathgroup6
+\symAMSb=\mathgroup7
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+) (/usr/local/texlive/2021/texmf-dist/tex/latex/amsfonts/amssymb.sty
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+) (/usr/local/texlive/2021/texmf-dist/tex/latex/mathtools/mathtools.sty
+Package: mathtools 2022/02/07 v1.28a mathematical typesetting tools
+ (/usr/local/texlive/2021/texmf-dist/tex/latex/tools/calc.sty
+Package: calc 2017/05/25 v4.3 Infix arithmetic (KKT,FJ)
+\calc@Acount=\count279
+\calc@Bcount=\count280
+\calc@Adimen=\dimen159
+\calc@Bdimen=\dimen160
+\calc@Askip=\skip56
+\calc@Bskip=\skip57
+LaTeX Info: Redefining \setlength on input line 80.
+LaTeX Info: Redefining \addtolength on input line 81.
+\calc@Ccount=\count281
+\calc@Cskip=\skip58
+) (/usr/local/texlive/2021/texmf-dist/tex/latex/mathtools/mhsetup.sty
+Package: mhsetup 2021/03/18 v1.4 programming setup (MH)
+)
+\g_MT_multlinerow_int=\count282
+\l_MT_multwidth_dim=\dimen161
+\origjot=\skip59
+\l_MT_shortvdotswithinadjustabove_dim=\dimen162
+\l_MT_shortvdotswithinadjustbelow_dim=\dimen163
+\l_MT_above_intertext_sep=\dimen164
+\l_MT_below_intertext_sep=\dimen165
+\l_MT_above_shortintertext_sep=\dimen166
+\l_MT_below_shortintertext_sep=\dimen167
+\xmathstrut@box=\box55
+\xmathstrut@dim=\dimen168
+) (/usr/local/texlive/2021/texmf-dist/tex/latex/tools/bm.sty
+Package: bm 2021/04/25 v1.2e Bold Symbol Support (DPC/FMi)
+Package bm Info: No bold for \OT1/ztmcm/m/n, using \pmb.
+Package bm Info: No bold for \OML/ztmcm/m/it, using \pmb.
+Package bm Info: No bold for \OMS/ztmcm/m/n, using \pmb.
+Package bm Info: No bold for \OMX/ztmcm/m/n, using \pmb.
+Package bm Info: No bold for \OT1/ptm/bx/n, using \pmb.
+Package bm Info: No bold for \OT1/ptm/m/it, using \pmb.
+Package bm Info: No bold for \U/msa/m/n, using \pmb.
+Package bm Info: No bold for \U/msb/m/n, using \pmb.
+) (/usr/local/texlive/2021/texmf-dist/tex/latex/amsfonts/eucal.sty
+Package: eucal 2009/06/22 v3.00 Euler Script fonts
+LaTeX Font Info:    Overwriting math alphabet `\EuScript' in version `bold'
+(Font)                  U/eus/m/n --> U/eus/b/n on input line 33.
+) (/usr/local/texlive/2021/texmf-dist/tex/latex/was/upgreek.sty
+Package: upgreek 2003/02/12 v2.0 (WaS)
+Package upgreek Info: Using Euler Roman for upright Greek on input line 31.
+\symugrf@m=\mathgroup8
+LaTeX Font Info:    Overwriting symbol font `ugrf@m' in version `bold'
+(Font)                  U/eur/m/n --> U/eur/b/n on input line 38.
+) (/usr/local/texlive/2021/texmf-dist/tex/latex/wasysym/wasysym.sty
+Package: wasysym 2020/01/19 v2.4 Wasy-2 symbol support package
+\symwasy=\mathgroup9
+LaTeX Font Info:    Overwriting symbol font `wasy' in version `bold'
+(Font)                  U/wasy/m/n --> U/wasy/b/n on input line 93.
+) (/usr/local/texlive/2021/texmf-dist/tex/latex/base/latexsym.sty
+Package: latexsym 1998/08/17 v2.2e Standard LaTeX package (lasy symbols)
+\symlasy=\mathgroup10
+LaTeX Font Info:    Overwriting symbol font `lasy' in version `bold'
+(Font)                  U/lasy/m/n --> U/lasy/b/n on input line 52.
+) (/usr/local/texlive/2021/texmf-dist/tex/generic/babel/babel.sty
+Package: babel 2022/02/26 3.73 The Babel package
+\babel@savecnt=\count283
+\U@D=\dimen169
+\l@unhyphenated=\language87
+ (/usr/local/texlive/2021/texmf-dist/tex/generic/babel/txtbabel.def)
+\bbl@readstream=\read2
+\bbl@dirlevel=\count284
+ (/usr/local/texlive/2021/texmf-dist/tex/generic/babel-english/british.ldf
+Language: british 2017/06/06 v3.3r English support from the babel system
+ (/usr/local/texlive/2021/texmf-dist/tex/generic/babel-english/english.ldf
+Language: english 2017/06/06 v3.3r English support from the babel system
+Package babel Info: Hyphen rules for 'canadian' set to \l@english
+(babel)             (\language0). Reported on input line 102.
+Package babel Info: Hyphen rules for 'australian' set to \l@ukenglish
+(babel)             (\language21). Reported on input line 105.
+Package babel Info: Hyphen rules for 'newzealand' set to \l@ukenglish
+(babel)             (\language21). Reported on input line 108.
+))) (/usr/local/texlive/2021/texmf-dist/tex/latex/base/ifthen.sty
+Package: ifthen 2020/11/24 v1.1c Standard LaTeX ifthen package (DPC)
+) (/usr/local/texlive/2021/texmf-dist/tex/generic/iftex/ifpdf.sty
+Package: ifpdf 2019/10/25 v3.4 ifpdf legacy package. Use iftex instead.
+) (/usr/local/texlive/2021/texmf-dist/tex/latex/tools/xspace.sty
+Package: xspace 2014/10/28 v1.13 Space after command names (DPC,MH)
+) (/usr/local/texlive/2021/texmf-dist/tex/latex/tools/multicol.sty
+Package: multicol 2021/10/28 v1.9b multicolumn formatting (FMi)
+\c@tracingmulticols=\count285
+\mult@box=\box56
+\multicol@leftmargin=\dimen170
+\c@unbalance=\count286
+\c@collectmore=\count287
+\doublecol@number=\count288
+\multicoltolerance=\count289
+\multicolpretolerance=\count290
+\full@width=\dimen171
+\page@free=\dimen172
+\premulticols=\dimen173
+\postmulticols=\dimen174
+\multicolsep=\skip60
+\multicolbaselineskip=\skip61
+\partial@page=\box57
+\last@line=\box58
+\maxbalancingoverflow=\dimen175
+\mult@rightbox=\box59
+\mult@grightbox=\box60
+\mult@firstbox=\box61
+\mult@gfirstbox=\box62
+\@tempa=\box63
+\@tempa=\box64
+\@tempa=\box65
+\@tempa=\box66
+\@tempa=\box67
+\@tempa=\box68
+\@tempa=\box69
+\@tempa=\box70
+\@tempa=\box71
+\@tempa=\box72
+\@tempa=\box73
+\@tempa=\box74
+\@tempa=\box75
+\@tempa=\box76
+\@tempa=\box77
+\@tempa=\box78
+\@tempa=\box79
+\@tempa=\box80
+\@tempa=\box81
+\@tempa=\box82
+\@tempa=\box83
+\@tempa=\box84
+\@tempa=\box85
+\@tempa=\box86
+\@tempa=\box87
+\@tempa=\box88
+\@tempa=\box89
+\@tempa=\box90
+\@tempa=\box91
+\@tempa=\box92
+\@tempa=\box93
+\@tempa=\box94
+\@tempa=\box95
+\@tempa=\box96
+\@tempa=\box97
+\@tempa=\box98
+\c@minrows=\count291
+\c@columnbadness=\count292
+\c@finalcolumnbadness=\count293
+\last@try=\dimen176
+\multicolovershoot=\dimen177
+\multicolundershoot=\dimen178
+\mult@nat@firstbox=\box99
+\colbreak@box=\box100
+\mc@col@check@num=\count294
+) (/usr/local/texlive/2021/texmf-dist/tex/latex/pdfpages/pdfpages.sty
+Package: pdfpages 2022/01/29 v0.5u Insert pages of external PDF documents (AM)
+ (/usr/local/texlive/2021/texmf-dist/tex/latex/eso-pic/eso-pic.sty
+Package: eso-pic 2020/10/14 v3.0a eso-pic (RN)
+\ESO@tempdima=\dimen179
+\ESO@tempdimb=\dimen180
+) (/usr/local/texlive/2021/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
+ (/usr/local/texlive/2021/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2021/03/04 v1.4d Standard LaTeX Graphics (DPC,SPQR)
+ (/usr/local/texlive/2021/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2021/08/11 v1.11 sin cos tan (DPC)
+) (/usr/local/texlive/2021/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 107.
+)
+\Gin@req@height=\dimen181
+\Gin@req@width=\dimen182
+)
+\AM@pagewidth=\dimen183
+\AM@pageheight=\dimen184
+\AM@fboxrule=\dimen185
+ (/usr/local/texlive/2021/texmf-dist/tex/latex/pdfpages/pppdftex.def
+File: pppdftex.def 2022/01/29 v0.5u Pdfpages driver for pdfTeX (AM)
+)
+\pdfpages@includegraphics@status=\count295
+\AM@pagebox=\box101
+\AM@global@opts=\toks26
+\AM@pagecnt=\count296
+\AM@toc@title=\toks27
+\c@AM@survey=\count297
+\AM@templatesizebox=\box102
+) (/usr/local/texlive/2021/texmf-dist/tex/latex/titlesec/titlesec.sty
+Package: titlesec 2021/07/05 v2.14 Sectioning titles
+\ttl@box=\box103
+\beforetitleunit=\skip62
+\aftertitleunit=\skip63
+\ttl@plus=\dimen186
+\ttl@minus=\dimen187
+\ttl@toksa=\toks28
+\titlewidth=\dimen188
+\titlewidthlast=\dimen189
+\titlewidthfirst=\dimen190
+) (/usr/local/texlive/2021/texmf-dist/tex/latex/lastpage/lastpage.sty
+Package: lastpage 2021/09/03 v1.2n Refers to last page's name (HMM; JPG)
+) (/usr/local/texlive/2021/texmf-dist/tex/latex/hyperref/hyperref.sty
+Package: hyperref 2022-02-21 v7.00n Hypertext links for LaTeX
+ (/usr/local/texlive/2021/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty
+Package: ltxcmds 2020-05-10 v1.25 LaTeX kernel commands for general use (HO)
+) (/usr/local/texlive/2021/texmf-dist/tex/generic/pdftexcmds/pdftexcmds.sty
+Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO)
+ (/usr/local/texlive/2021/texmf-dist/tex/generic/infwarerr/infwarerr.sty
+Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
+)
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+) (/usr/local/texlive/2021/texmf-dist/tex/generic/kvsetkeys/kvsetkeys.sty
+Package: kvsetkeys 2019/12/15 v1.18 Key value parser (HO)
+) (/usr/local/texlive/2021/texmf-dist/tex/generic/kvdefinekeys/kvdefinekeys.sty
+Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
+) (/usr/local/texlive/2021/texmf-dist/tex/generic/pdfescape/pdfescape.sty
+Package: pdfescape 2019/12/09 v1.15 Implements pdfTeX's escape features (HO)
+) (/usr/local/texlive/2021/texmf-dist/tex/latex/hycolor/hycolor.sty
+Package: hycolor 2020-01-27 v1.10 Color options for hyperref/bookmark (HO)
+) (/usr/local/texlive/2021/texmf-dist/tex/latex/letltxmacro/letltxmacro.sty
+Package: letltxmacro 2019/12/03 v1.6 Let assignment for LaTeX macros (HO)
+) (/usr/local/texlive/2021/texmf-dist/tex/latex/auxhook/auxhook.sty
+Package: auxhook 2019-12-17 v1.6 Hooks for auxiliary files (HO)
+) (/usr/local/texlive/2021/texmf-dist/tex/latex/kvoptions/kvoptions.sty
+Package: kvoptions 2020-10-07 v3.14 Key value format for package options (HO)
+)
+\@linkdim=\dimen191
+\Hy@linkcounter=\count298
+\Hy@pagecounter=\count299
+ (/usr/local/texlive/2021/texmf-dist/tex/latex/hyperref/pd1enc.def
+File: pd1enc.def 2022-02-21 v7.00n Hyperref: PDFDocEncoding definition (HO)
+Now handling font encoding PD1 ...
+... no UTF-8 mapping file for font encoding PD1
+) (/usr/local/texlive/2021/texmf-dist/tex/generic/intcalc/intcalc.sty
+Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
+) (/usr/local/texlive/2021/texmf-dist/tex/generic/etexcmds/etexcmds.sty
+Package: etexcmds 2019/12/15 v1.7 Avoid name clashes with e-TeX commands (HO)
+)
+\Hy@SavedSpaceFactor=\count300
+ (/usr/local/texlive/2021/texmf-dist/tex/latex/hyperref/puenc.def
+File: puenc.def 2022-02-21 v7.00n Hyperref: PDF Unicode definition (HO)
+Now handling font encoding PU ...
+... no UTF-8 mapping file for font encoding PU
+)
+Package hyperref Info: Option `breaklinks' set `true' on input line 4018.
+Package hyperref Info: Option `bookmarks' set `true' on input line 4018.
+Package hyperref Info: Option `bookmarksnumbered' set `true' on input line 4018.
+Package hyperref Info: Option `colorlinks' set `true' on input line 4018.
+Package hyperref Info: Option `pdffitwindow' set `false' on input line 4018.
+Package hyperref Info: Option `pdfpagelabels' set `true' on input line 4018.
+Package hyperref Info: Option `pdfnewwindow' set `true' on input line 4018.
+Package hyperref Info: Option `pdfdisplaydoctitle' set `true' on input line 4018.
+Package hyperref Info: Hyper figures OFF on input line 4137.
+Package hyperref Info: Link nesting OFF on input line 4142.
+Package hyperref Info: Hyper index ON on input line 4145.
+Package hyperref Info: Plain pages OFF on input line 4152.
+Package hyperref Info: Backreferencing ON on input line 4155.
+Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
+Package hyperref Info: Bookmarks ON on input line 4390.
+ (/usr/local/texlive/2021/texmf-dist/tex/latex/hyperref/backref.sty
+Package: backref 2021/02/04 v1.41 Bibliographical back referencing
+ (/usr/local/texlive/2021/texmf-dist/tex/latex/rerunfilecheck/rerunfilecheck.sty
+Package: rerunfilecheck 2019/12/05 v1.9 Rerun checks for auxiliary files (HO)
+ (/usr/local/texlive/2021/texmf-dist/tex/latex/base/atveryend-ltx.sty
+Package: atveryend-ltx 2020/08/19 v1.0a Emulation of the original atveryend package
+with kernel methods
+) (/usr/local/texlive/2021/texmf-dist/tex/generic/uniquecounter/uniquecounter.sty
+Package: uniquecounter 2019/12/15 v1.4 Provide unlimited unique counter (HO)
+ (/usr/local/texlive/2021/texmf-dist/tex/generic/bigintcalc/bigintcalc.sty
+Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO)
+))
+Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 286.
+))
+\c@Hy@tempcnt=\count301
+ (/usr/local/texlive/2021/texmf-dist/tex/latex/url/url.sty
+\Urlmuskip=\muskip17
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+LaTeX Info: Redefining \url on input line 4749.
+\XeTeXLinkMargin=\dimen192
+ (/usr/local/texlive/2021/texmf-dist/tex/generic/bitset/bitset.sty
+Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
+)
+\Fld@menulength=\count302
+\Field@Width=\dimen193
+\Fld@charsize=\dimen194
+Package hyperref Info: Hyper figures OFF on input line 6027.
+Package hyperref Info: Link nesting OFF on input line 6032.
+Package hyperref Info: Hyper index ON on input line 6035.
+Package hyperref Info: backreferencing ON on input line 6040.
+Package hyperref Info: Link coloring ON on input line 6045.
+Package hyperref Info: Link coloring with OCG OFF on input line 6052.
+Package hyperref Info: PDF/A mode OFF on input line 6057.
+LaTeX Info: Redefining \ref on input line 6097.
+LaTeX Info: Redefining \pageref on input line 6101.
+ (/usr/local/texlive/2021/texmf-dist/tex/latex/base/atbegshi-ltx.sty
+Package: atbegshi-ltx 2021/01/10 v1.0c Emulation of the original atbegshi
+package with kernel methods
+)
+\Hy@abspage=\count303
+\c@Item=\count304
+\c@Hfootnote=\count305
+)
+Package hyperref Info: Driver: hpdftex.
+ (/usr/local/texlive/2021/texmf-dist/tex/latex/hyperref/hpdftex.def
+File: hpdftex.def 2022-02-21 v7.00n Hyperref driver for pdfTeX
+\Fld@listcount=\count306
+\c@bookmark@seq@number=\count307
+\Hy@SectionHShift=\skip64
+) (/usr/local/texlive/2021/texmf-dist/tex/latex/breakurl/breakurl.sty
+Package: breakurl 2013/04/10 v1.40 Breakable hyperref URLs
+ (/usr/local/texlive/2021/texmf-dist/tex/latex/xkeyval/xkeyval.sty
+Package: xkeyval 2020/11/20 v2.8 package option processing (HA)
+ (/usr/local/texlive/2021/texmf-dist/tex/generic/xkeyval/xkeyval.tex (/usr/local/texlive/2021/texmf-dist/tex/generic/xkeyval/xkvutils.tex
+\XKV@toks=\toks29
+\XKV@tempa@toks=\toks30
+)
+\XKV@depth=\count308
+File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
+))
+
+Package breakurl Warning: You are using breakurl while processing via pdflatex.
+(breakurl)                \burl will be just a synonym of \url.
+(breakurl)                 on input line 48.
+
+) (/usr/local/texlive/2021/texmf-dist/tex/latex/paralist/paralist.sty
+Package: paralist 2017/01/22 v2.7 Extended list environments
+\pltopsep=\skip65
+\plpartopsep=\skip66
+\plitemsep=\skip67
+\plparsep=\skip68
+\pl@lab=\toks31
+) (/usr/local/texlive/2021/texmf-dist/tex/latex/shadow/shadow.sty
+Package: shadow 2003/02/19 v1.3 shadow boxes (M.O.)
+\txtwdth=\dimen195
+\sht=\dimen196
+\shw=\dimen197
+\shbox=\box104
+\sboxsep=\dimen198
+\sboxrule=\dimen199
+\sdim=\dimen256
+) (/usr/local/texlive/2021/texmf-dist/tex/generic/soul/soul.sty
+Package: soul 2003/11/17 v2.4 letterspacing/underlining (mf)
+\SOUL@word=\toks32
+\SOUL@lasttoken=\toks33
+\SOUL@cmds=\toks34
+\SOUL@buffer=\toks35
+\SOUL@token=\toks36
+\SOUL@spaceskip=\skip69
+\SOUL@ttwidth=\dimen257
+\SOUL@uldp=\dimen258
+\SOUL@ulht=\dimen259
+) (/usr/local/texlive/2021/texmf-dist/tex/latex/float/float.sty
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count309
+\float@exts=\toks37
+\float@box=\box105
+\@float@everytoks=\toks38
+\@floatcapt=\box106
+) (/usr/local/texlive/2021/texmf-dist/tex/latex/graphics/rotating.sty
+Package: rotating 2016/08/11 v2.16d rotated objects in LaTeX
+\c@r@tfl@t=\count310
+\rotFPtop=\skip70
+\rotFPbot=\skip71
+\rot@float@box=\box107
+\rot@mess@toks=\toks39
+) (/usr/local/texlive/2021/texmf-dist/tex/latex/rotfloat/rotfloat.sty
+Package: rotfloat 2004/01/04 v1.2 Combining float+rotating package (AS)
+Package rotfloat Info: float package v1.3 detected on input line 74.
+) (/usr/local/texlive/2021/texmf-dist/tex/latex/caption/caption.sty
+Package: caption 2022/03/01 v3.6b Customizing captions (AR)
+ (/usr/local/texlive/2021/texmf-dist/tex/latex/caption/caption3.sty
+Package: caption3 2022/03/17 v2.3b caption3 kernel (AR)
+\caption@tempdima=\dimen260
+\captionmargin=\dimen261
+\caption@leftmargin=\dimen262
+\caption@rightmargin=\dimen263
+\caption@width=\dimen264
+\caption@indent=\dimen265
+\caption@parindent=\dimen266
+\caption@hangindent=\dimen267
+Package caption Info: Standard document class detected.
+)
+\c@caption@flags=\count311
+\c@continuedfloat=\count312
+Package caption Info: float package is loaded.
+Package caption Info: hyperref package is loaded.
+Package caption Info: rotating package is loaded.
+) (/usr/local/texlive/2021/texmf-dist/tex/latex/caption/subcaption.sty
+Package: subcaption 2022/01/07 v1.5 Sub-captions (AR)
+\c@subfigure=\count313
+\c@subtable=\count314
+) (/usr/local/texlive/2021/texmf-dist/tex/latex/base/alltt.sty
+Package: alltt 2021/01/29 v2.0g defines alltt environment
+) (/usr/local/texlive/2021/texmf-dist/tex/latex/moreverb/moreverb.sty
+Package: moreverb 2008/06/03 v2.3a `more' verbatim facilities
+ (/usr/local/texlive/2021/texmf-dist/tex/latex/tools/verbatim.sty
+Package: verbatim 2020-07-07 v1.5u LaTeX2e package for verbatim enhancements
+\every@verbatim=\toks40
+\verbatim@line=\toks41
+\verbatim@in@stream=\read3
+)
+\tab@position=\count315
+\tab@size=\count316
+\listing@line=\count317
+) (/usr/local/texlive/2021/texmf-dist/tex/latex/listings/listings.sty
+\lst@mode=\count318
+\lst@gtempboxa=\box108
+\lst@token=\toks42
+\lst@length=\count319
+\lst@currlwidth=\dimen268
+\lst@column=\count320
+\lst@pos=\count321
+\lst@lostspace=\dimen269
+\lst@width=\dimen270
+\lst@newlines=\count322
+\lst@lineno=\count323
+\lst@maxwidth=\dimen271
+ (/usr/local/texlive/2021/texmf-dist/tex/latex/listings/lstmisc.sty
+File: lstmisc.sty 2020/03/24 1.8d (Carsten Heinz)
+\c@lstnumber=\count324
+\lst@skipnumbers=\count325
+\lst@framebox=\box109
+) (/usr/local/texlive/2021/texmf-dist/tex/latex/listings/listings.cfg
+File: listings.cfg 2020/03/24 1.8d listings configuration
+))
+Package: listings 2020/03/24 1.8d (Carsten Heinz)
+ (/usr/local/texlive/2021/texmf-dist/tex/latex/algorithms/algorithm.sty
+Package: algorithm 2009/08/24 v0.1 Document Style `algorithm' - floating environment
+\@float@every@algorithm=\toks43
+\c@algorithm=\count326
+) (/usr/local/texlive/2021/texmf-dist/tex/latex/algorithmicx/algpseudocode.sty
+Package: algpseudocode 
+ (/usr/local/texlive/2021/texmf-dist/tex/latex/algorithmicx/algorithmicx.sty
+Package: algorithmicx 2005/04/27 v1.2 Algorithmicx
+
+Document Style algorithmicx 1.2 - a greatly improved `algorithmic' style
+\c@ALG@line=\count327
+\c@ALG@rem=\count328
+\c@ALG@nested=\count329
+\ALG@tlm=\skip72
+\ALG@thistlm=\skip73
+\c@ALG@Lnr=\count330
+\c@ALG@blocknr=\count331
+\c@ALG@storecount=\count332
+\c@ALG@tmpcounter=\count333
+\ALG@tmplength=\skip74
+)
+Document Style - pseudocode environments for use with the `algorithmicx' style
+) (/usr/local/texlive/2021/texmf-dist/tex/latex/booktabs/booktabs.sty
+Package: booktabs 2020/01/12 v1.61803398 Publication quality tables
+\heavyrulewidth=\dimen272
+\lightrulewidth=\dimen273
+\cmidrulewidth=\dimen274
+\belowrulesep=\dimen275
+\belowbottomsep=\dimen276
+\aboverulesep=\dimen277
+\abovetopsep=\dimen278
+\cmidrulesep=\dimen279
+\cmidrulekern=\dimen280
+\defaultaddspace=\dimen281
+\@cmidla=\count334
+\@cmidlb=\count335
+\@aboverulesep=\dimen282
+\@belowrulesep=\dimen283
+\@thisruleclass=\count336
+\@lastruleclass=\count337
+\@thisrulewidth=\dimen284
+) (/usr/local/texlive/2021/texmf-dist/tex/latex/tools/hhline.sty
+Package: hhline 2020/01/04 v2.04 Table rule package (DPC)
+) (/usr/local/texlive/2021/texmf-dist/tex/latex/base/makeidx.sty
+Package: makeidx 2021/10/04 v1.0m Standard LaTeX package
+) (/usr/local/texlive/2021/texmf-dist/tex/latex/appendix/appendix.sty
+Package: appendix 2020/02/08 v1.2c extra appendix facilities
+\c@@pps=\count338
+\c@@ppsavesec=\count339
+\c@@ppsaveapp=\count340
+) (/usr/local/texlive/2021/texmf-dist/tex/latex/acronym/acronym.sty
+Package: acronym 2020/04/17 v1.47 Support for acronyms (Tobias Oetiker)
+ (/usr/local/texlive/2021/texmf-dist/tex/latex/bigfoot/suffix.sty
+Package: suffix 2006/07/15 1.5a Variant command support
+) (/usr/local/texlive/2021/texmf-dist/tex/generic/xstring/xstring.sty (/usr/local/texlive/2021/texmf-dist/tex/generic/xstring/xstring.tex
+\integerpart=\count341
+\decimalpart=\count342
+)
+Package: xstring 2021/07/21 v1.84 String manipulations (CT)
+)
+\AC@clearlist=\toks44
+) (/usr/local/texlive/2021/texmf-dist/tex/latex/tools/enumerate.sty
+Package: enumerate 2015/07/23 v3.00 enumerate extensions (DPC)
+\@enLab=\toks45
+) (/usr/local/texlive/2021/texmf-dist/tex/latex/tools/theorem.sty
+Package: theorem 2014/10/28 v2.2c Theorem extension package (FMi)
+\theorem@style=\toks46
+\theorem@bodyfont=\toks47
+\theorempreskipamount=\skip75
+\theorempostskipamount=\skip76
+ (/usr/local/texlive/2021/texmf-dist/tex/latex/tools/thp.sty
+File: thp.sty 2014/10/28 v2.2c Theorem extension package (FMi)
+)) (/usr/local/texlive/2021/texmf-dist/tex/latex/multirow/multirow.sty
+Package: multirow 2021/03/15 v2.8 Span multiple rows of a table
+\multirow@colwidth=\skip77
+\multirow@cntb=\count343
+\multirow@dima=\skip78
+\bigstrutjot=\dimen285
+) (/usr/local/texlive/2021/texmf-dist/tex/latex/seqsplit/seqsplit.sty
+Package: seqsplit 2006/08/07 v0.1 Splitting long sequences (DNA, RNA, proteins, etc.) 
+) (/usr/local/texlive/2021/texmf-dist/tex/latex/datetime/datetime.sty
+Package: datetime 2015/03/20 v2.60 Date Time Package
+ (/usr/local/texlive/2021/texmf-dist/tex/latex/fmtcount/fmtcount.sty
+Package: fmtcount 2020/01/30 v3.07
+ (/usr/local/texlive/2021/texmf-dist/tex/latex/fmtcount/fcprefix.sty
+Package: fcprefix 2012/09/28
+ (/usr/local/texlive/2021/texmf-dist/tex/latex/fmtcount/fcnumparser.sty
+Package: fcnumparser 2017/06/15
+\fc@digit@counter=\count344
+))
+\c@padzeroesN=\count345
+\fc@tmpcatcode=\count346
+ (/usr/local/texlive/2021/texmf-dist/tex/latex/fmtcount/fc-english.def
+File: fc-english.def 2016/01/12
+) (/usr/local/texlive/2021/texmf-dist/tex/latex/fmtcount/fc-british.def
+File: fc-british.def 2013/08/17
+)
+\@DT@modctr=\count347
+\@ordinalctr=\count348
+\@orgargctr=\count349
+\@strctr=\count350
+\@tmpstrctr=\count351
+\@DT@loopN=\count352
+\@DT@X=\count353
+) (/usr/local/texlive/2021/texmf-dist/tex/latex/datetime/datetime-defaults.sty
+Package: datetime-defaults 2013/09/10
+)
+\@day=\count354
+\@month=\count355
+\@year=\count356
+\c@HOUR=\count357
+\c@HOURXII=\count358
+\c@MINUTE=\count359
+\c@TOHOUR=\count360
+\c@TOMINUTE=\count361
+\c@SECOND=\count362
+\currenthour=\count363
+\currentminute=\count364
+\currentsecond=\count365
+Package datetime Info: No datetime.cfg file found, using default settings on input line 308.
+\@dtctr=\count366
+\dayofyear=\count367
+\dayofweek=\count368
+LaTeX Info: Redefining \today on input line 736.
+ (/usr/local/texlive/2021/texmf-dist/tex/latex/datetime/dt-british.def
+File: dt-british.def 2013/09/10
+)
+\dt@a=\toks48
+\dt@b=\toks49
+) (/usr/local/texlive/2021/texmf-dist/tex/latex/pgf/frontendlayer/tikz.sty (/usr/local/texlive/2021/texmf-dist/tex/latex/pgf/basiclayer/pgf.sty (/usr/local/texlive/2021/texmf-dist/tex/latex/pgf/utilities/pgfrcs.sty (/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/utilities/pgfutil-common.tex
+\pgfutil@everybye=\toks50
+\pgfutil@tempdima=\dimen286
+\pgfutil@tempdimb=\dimen287
+ (/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/utilities/pgfutil-common-lists.tex)) (/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/utilities/pgfutil-latex.def
+\pgfutil@abb=\box110
+) (/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/utilities/pgfrcs.code.tex (/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/pgf.revision.tex)
+Package: pgfrcs 2021/05/15 v3.1.9a (3.1.9a)
+))
+Package: pgf 2021/05/15 v3.1.9a (3.1.9a)
+ (/usr/local/texlive/2021/texmf-dist/tex/latex/pgf/basiclayer/pgfcore.sty (/usr/local/texlive/2021/texmf-dist/tex/latex/pgf/systemlayer/pgfsys.sty (/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/systemlayer/pgfsys.code.tex
+Package: pgfsys 2021/05/15 v3.1.9a (3.1.9a)
+ (/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/utilities/pgfkeys.code.tex
+\pgfkeys@pathtoks=\toks51
+\pgfkeys@temptoks=\toks52
+ (/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/utilities/pgfkeysfiltered.code.tex
+\pgfkeys@tmptoks=\toks53
+))
+\pgf@x=\dimen288
+\pgf@y=\dimen289
+\pgf@xa=\dimen290
+\pgf@ya=\dimen291
+\pgf@xb=\dimen292
+\pgf@yb=\dimen293
+\pgf@xc=\dimen294
+\pgf@yc=\dimen295
+\pgf@xd=\dimen296
+\pgf@yd=\dimen297
+\w@pgf@writea=\write3
+\r@pgf@reada=\read4
+\c@pgf@counta=\count369
+\c@pgf@countb=\count370
+\c@pgf@countc=\count371
+\c@pgf@countd=\count372
+\t@pgf@toka=\toks54
+\t@pgf@tokb=\toks55
+\t@pgf@tokc=\toks56
+\pgf@sys@id@count=\count373
+ (/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/systemlayer/pgf.cfg
+File: pgf.cfg 2021/05/15 v3.1.9a (3.1.9a)
+)
+Driver file for pgf: pgfsys-pdftex.def
+ (/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/systemlayer/pgfsys-pdftex.def
+File: pgfsys-pdftex.def 2021/05/15 v3.1.9a (3.1.9a)
+ (/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/systemlayer/pgfsys-common-pdf.def
+File: pgfsys-common-pdf.def 2021/05/15 v3.1.9a (3.1.9a)
+))) (/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/systemlayer/pgfsyssoftpath.code.tex
+File: pgfsyssoftpath.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgfsyssoftpath@smallbuffer@items=\count374
+\pgfsyssoftpath@bigbuffer@items=\count375
+) (/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/systemlayer/pgfsysprotocol.code.tex
+File: pgfsysprotocol.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+)) (/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/basiclayer/pgfcore.code.tex
+Package: pgfcore 2021/05/15 v3.1.9a (3.1.9a)
+ (/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex (/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/math/pgfmathcalc.code.tex (/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/math/pgfmathutil.code.tex) (/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/math/pgfmathparser.code.tex
+\pgfmath@dimen=\dimen298
+\pgfmath@count=\count376
+\pgfmath@box=\box111
+\pgfmath@toks=\toks57
+\pgfmath@stack@operand=\toks58
+\pgfmath@stack@operation=\toks59
+) (/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.code.tex (/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.basic.code.tex) (/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.trigonometric.code.tex) (/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.random.code.tex) (/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.comparison.code.tex) (/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.base.code.tex) (/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.round.code.tex) (/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.misc.code.tex) (/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.integerarithmetics.code.tex))) (/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/math/pgfmathfloat.code.tex
+\c@pgfmathroundto@lastzeros=\count377
+)) (/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/math/pgfint.code.tex) (/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepoints.code.tex
+File: pgfcorepoints.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgf@picminx=\dimen299
+\pgf@picmaxx=\dimen300
+\pgf@picminy=\dimen301
+\pgf@picmaxy=\dimen302
+\pgf@pathminx=\dimen303
+\pgf@pathmaxx=\dimen304
+\pgf@pathminy=\dimen305
+\pgf@pathmaxy=\dimen306
+\pgf@xx=\dimen307
+\pgf@xy=\dimen308
+\pgf@yx=\dimen309
+\pgf@yy=\dimen310
+\pgf@zx=\dimen311
+\pgf@zy=\dimen312
+) (/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathconstruct.code.tex
+File: pgfcorepathconstruct.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgf@path@lastx=\dimen313
+\pgf@path@lasty=\dimen314
+) (/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathusage.code.tex
+File: pgfcorepathusage.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgf@shorten@end@additional=\dimen315
+\pgf@shorten@start@additional=\dimen316
+) (/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/basiclayer/pgfcorescopes.code.tex
+File: pgfcorescopes.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgfpic=\box112
+\pgf@hbox=\box113
+\pgf@layerbox@main=\box114
+\pgf@picture@serial@count=\count378
+) (/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/basiclayer/pgfcoregraphicstate.code.tex
+File: pgfcoregraphicstate.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgflinewidth=\dimen317
+) (/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/basiclayer/pgfcoretransformations.code.tex
+File: pgfcoretransformations.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgf@pt@x=\dimen318
+\pgf@pt@y=\dimen319
+\pgf@pt@temp=\dimen320
+) (/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/basiclayer/pgfcorequick.code.tex
+File: pgfcorequick.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+) (/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreobjects.code.tex
+File: pgfcoreobjects.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+) (/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathprocessing.code.tex
+File: pgfcorepathprocessing.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+) (/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/basiclayer/pgfcorearrows.code.tex
+File: pgfcorearrows.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgfarrowsep=\dimen321
+) (/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreshade.code.tex
+File: pgfcoreshade.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgf@max=\dimen322
+\pgf@sys@shading@range@num=\count379
+\pgf@shadingcount=\count380
+) (/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreimage.code.tex
+File: pgfcoreimage.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+ (/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreexternal.code.tex
+File: pgfcoreexternal.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgfexternal@startupbox=\box115
+)) (/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/basiclayer/pgfcorelayers.code.tex
+File: pgfcorelayers.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+) (/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/basiclayer/pgfcoretransparency.code.tex
+File: pgfcoretransparency.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+) (/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepatterns.code.tex
+File: pgfcorepatterns.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+) (/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/basiclayer/pgfcorerdf.code.tex
+File: pgfcorerdf.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+))) (/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/modules/pgfmoduleshapes.code.tex
+File: pgfmoduleshapes.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgfnodeparttextbox=\box116
+) (/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/modules/pgfmoduleplot.code.tex
+File: pgfmoduleplot.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+) (/usr/local/texlive/2021/texmf-dist/tex/latex/pgf/compatibility/pgfcomp-version-0-65.sty
+Package: pgfcomp-version-0-65 2021/05/15 v3.1.9a (3.1.9a)
+\pgf@nodesepstart=\dimen323
+\pgf@nodesepend=\dimen324
+) (/usr/local/texlive/2021/texmf-dist/tex/latex/pgf/compatibility/pgfcomp-version-1-18.sty
+Package: pgfcomp-version-1-18 2021/05/15 v3.1.9a (3.1.9a)
+)) (/usr/local/texlive/2021/texmf-dist/tex/latex/pgf/utilities/pgffor.sty (/usr/local/texlive/2021/texmf-dist/tex/latex/pgf/utilities/pgfkeys.sty (/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/utilities/pgfkeys.code.tex)) (/usr/local/texlive/2021/texmf-dist/tex/latex/pgf/math/pgfmath.sty (/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex)) (/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/utilities/pgffor.code.tex
+Package: pgffor 2021/05/15 v3.1.9a (3.1.9a)
+ (/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex)
+\pgffor@iter=\dimen325
+\pgffor@skip=\dimen326
+\pgffor@stack=\toks60
+\pgffor@toks=\toks61
+)) (/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/frontendlayer/tikz/tikz.code.tex
+Package: tikz 2021/05/15 v3.1.9a (3.1.9a)
+ (/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/libraries/pgflibraryplothandlers.code.tex
+File: pgflibraryplothandlers.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgf@plot@mark@count=\count381
+\pgfplotmarksize=\dimen327
+)
+\tikz@lastx=\dimen328
+\tikz@lasty=\dimen329
+\tikz@lastxsaved=\dimen330
+\tikz@lastysaved=\dimen331
+\tikz@lastmovetox=\dimen332
+\tikz@lastmovetoy=\dimen333
+\tikzleveldistance=\dimen334
+\tikzsiblingdistance=\dimen335
+\tikz@figbox=\box117
+\tikz@figbox@bg=\box118
+\tikz@tempbox=\box119
+\tikz@tempbox@bg=\box120
+\tikztreelevel=\count382
+\tikznumberofchildren=\count383
+\tikznumberofcurrentchild=\count384
+\tikz@fig@count=\count385
+ (/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/modules/pgfmodulematrix.code.tex
+File: pgfmodulematrix.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgfmatrixcurrentrow=\count386
+\pgfmatrixcurrentcolumn=\count387
+\pgf@matrix@numberofcolumns=\count388
+)
+\tikz@expandcount=\count389
+ (/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrarytopaths.code.tex
+File: tikzlibrarytopaths.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+))) (/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibraryshapes.code.tex
+File: tikzlibraryshapes.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+ (/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibraryshapes.geometric.code.tex
+File: tikzlibraryshapes.geometric.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+ (/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/libraries/shapes/pgflibraryshapes.geometric.code.tex
+File: pgflibraryshapes.geometric.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+)) (/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibraryshapes.misc.code.tex
+File: tikzlibraryshapes.misc.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+ (/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/libraries/shapes/pgflibraryshapes.misc.code.tex
+File: pgflibraryshapes.misc.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+)) (/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibraryshapes.symbols.code.tex
+File: tikzlibraryshapes.symbols.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+ (/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/libraries/shapes/pgflibraryshapes.symbols.code.tex
+File: pgflibraryshapes.symbols.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+)) (/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibraryshapes.arrows.code.tex
+File: tikzlibraryshapes.arrows.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+ (/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/libraries/shapes/pgflibraryshapes.arrows.code.tex
+File: pgflibraryshapes.arrows.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+)) (/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibraryshapes.callouts.code.tex (/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/libraries/shapes/pgflibraryshapes.callouts.code.tex)) (/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibraryshapes.multipart.code.tex
+File: tikzlibraryshapes.multipart.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+ (/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/libraries/shapes/pgflibraryshapes.multipart.code.tex
+File: pgflibraryshapes.multipart.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgfnodepartlowerbox=\box121
+\pgfnodeparttwobox=\box122
+\pgfnodepartthreebox=\box123
+\pgfnodepartfourbox=\box124
+\pgfnodeparttwentybox=\box125
+\pgfnodepartnineteenbox=\box126
+\pgfnodeparteighteenbox=\box127
+\pgfnodepartseventeenbox=\box128
+\pgfnodepartsixteenbox=\box129
+\pgfnodepartfifteenbox=\box130
+\pgfnodepartfourteenbox=\box131
+\pgfnodepartthirteenbox=\box132
+\pgfnodeparttwelvebox=\box133
+\pgfnodepartelevenbox=\box134
+\pgfnodeparttenbox=\box135
+\pgfnodepartninebox=\box136
+\pgfnodeparteightbox=\box137
+\pgfnodepartsevenbox=\box138
+\pgfnodepartsixbox=\box139
+\pgfnodepartfivebox=\box140
+))) (/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibraryarrows.code.tex
+File: tikzlibraryarrows.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+ (/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/libraries/pgflibraryarrows.code.tex
+File: pgflibraryarrows.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\arrowsize=\dimen336
+)) (/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrarypositioning.code.tex
+File: tikzlibrarypositioning.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+) (/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrarymatrix.code.tex
+File: tikzlibrarymatrix.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+) (/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrarymindmap.code.tex
+File: tikzlibrarymindmap.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+ (/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrarytrees.code.tex
+File: tikzlibrarytrees.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+) (/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrarydecorations.code.tex (/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/modules/pgfmoduledecorations.code.tex
+\pgfdecoratedcompleteddistance=\dimen337
+\pgfdecoratedremainingdistance=\dimen338
+\pgfdecoratedinputsegmentcompleteddistance=\dimen339
+\pgfdecoratedinputsegmentremainingdistance=\dimen340
+\pgf@decorate@distancetomove=\dimen341
+\pgf@decorate@repeatstate=\count390
+\pgfdecorationsegmentamplitude=\dimen342
+\pgfdecorationsegmentlength=\dimen343
+)
+\tikz@lib@dec@box=\box141
+)) (/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibraryshadows.code.tex
+File: tikzlibraryshadows.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+ (/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibraryfadings.code.tex
+File: tikzlibraryfadings.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+ (/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/libraries/pgflibraryfadings.code.tex
+File: pgflibraryfadings.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+))) (/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibraryfit.code.tex
+File: tikzlibraryfit.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+) (/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrarycalc.code.tex
+File: tikzlibrarycalc.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+) (/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibraryintersections.code.tex
+(/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/libraries/pgflibraryintersections.code.tex (/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/libraries/pgflibraryfpu.code.tex)
+\pgf@intersect@solutions=\count391
+))
+\pgf@layerbox@background=\box142
+\pgf@layerboxsaved@background=\box143
+\pgf@layerbox@foreground=\box144
+\pgf@layerboxsaved@foreground=\box145
+ (/usr/local/texlive/2021/texmf-dist/tex/latex/pgfplots/pgfplots.sty (/usr/local/texlive/2021/texmf-dist/tex/generic/pgfplots/pgfplots.revision.tex)
+Package: pgfplots 2021/05/15 v1.18.1 Data Visualization (1.18.1)
+ (/usr/local/texlive/2021/texmf-dist/tex/generic/pgfplots/pgfplots.code.tex (/usr/local/texlive/2021/texmf-dist/tex/generic/pgfplots/pgfplotscore.code.tex
+\t@pgfplots@toka=\toks62
+\t@pgfplots@tokb=\toks63
+\t@pgfplots@tokc=\toks64
+\pgfplots@tmpa=\dimen344
+\c@pgfplots@coordindex=\count392
+\c@pgfplots@scanlineindex=\count393
+ (/usr/local/texlive/2021/texmf-dist/tex/generic/pgfplots/sys/pgfplotssysgeneric.code.tex)) (/usr/local/texlive/2021/texmf-dist/tex/generic/pgfplots/libs/pgfplotslibrary.code.tex) (/usr/local/texlive/2021/texmf-dist/tex/generic/pgfplots/oldpgfcompatib/pgfplotsoldpgfsupp_loader.code.tex) (/usr/local/texlive/2021/texmf-dist/tex/generic/pgfplots/util/pgfplotsutil.code.tex (/usr/local/texlive/2021/texmf-dist/tex/generic/pgfplots/liststructure/pgfplotsliststructure.code.tex) (/usr/local/texlive/2021/texmf-dist/tex/generic/pgfplots/liststructure/pgfplotsliststructureext.code.tex) (/usr/local/texlive/2021/texmf-dist/tex/generic/pgfplots/liststructure/pgfplotsarray.code.tex
+\c@pgfplotsarray@tmp=\count394
+) (/usr/local/texlive/2021/texmf-dist/tex/generic/pgfplots/liststructure/pgfplotsmatrix.code.tex) (/usr/local/texlive/2021/texmf-dist/tex/generic/pgfplots/numtable/pgfplotstableshared.code.tex
+\c@pgfplotstable@counta=\count395
+\t@pgfplotstable@a=\toks65
+) (/usr/local/texlive/2021/texmf-dist/tex/generic/pgfplots/liststructure/pgfplotsdeque.code.tex) (/usr/local/texlive/2021/texmf-dist/tex/generic/pgfplots/util/pgfplotsbinary.code.tex (/usr/local/texlive/2021/texmf-dist/tex/generic/pgfplots/util/pgfplotsbinary.data.code.tex)) (/usr/local/texlive/2021/texmf-dist/tex/generic/pgfplots/util/pgfplotsutil.verb.code.tex) (/usr/local/texlive/2021/texmf-dist/tex/generic/pgfplots/libs/pgflibrarypgfplots.surfshading.code.tex
+\c@pgfplotslibrarysurf@no=\count396
+ (/usr/local/texlive/2021/texmf-dist/tex/generic/pgfplots/sys/pgflibrarypgfplots.surfshading.pgfsys-pdftex.def))) (/usr/local/texlive/2021/texmf-dist/tex/generic/pgfplots/util/pgfplotscolormap.code.tex (/usr/local/texlive/2021/texmf-dist/tex/generic/pgfplots/util/pgfplotscolor.code.tex)) (/usr/local/texlive/2021/texmf-dist/tex/generic/pgfplots/pgfplotsstackedplots.code.tex) (/usr/local/texlive/2021/texmf-dist/tex/generic/pgfplots/pgfplotsplothandlers.code.tex (/usr/local/texlive/2021/texmf-dist/tex/generic/pgfplots/pgfplotsmeshplothandler.code.tex (/usr/local/texlive/2021/texmf-dist/tex/generic/pgfplots/pgfplotsmeshplotimage.code.tex))) (/usr/local/texlive/2021/texmf-dist/tex/generic/pgfplots/pgfplots.scaling.code.tex) (/usr/local/texlive/2021/texmf-dist/tex/generic/pgfplots/pgfplotscoordprocessing.code.tex) (/usr/local/texlive/2021/texmf-dist/tex/generic/pgfplots/pgfplots.errorbars.code.tex) (/usr/local/texlive/2021/texmf-dist/tex/generic/pgfplots/pgfplots.markers.code.tex) (/usr/local/texlive/2021/texmf-dist/tex/generic/pgfplots/pgfplotsticks.code.tex) (/usr/local/texlive/2021/texmf-dist/tex/generic/pgfplots/pgfplots.paths.code.tex) (/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrarydecorations.pathmorphing.code.tex (/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/libraries/decorations/pgflibrarydecorations.pathmorphing.code.tex)) (/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrarydecorations.pathreplacing.code.tex (/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/libraries/decorations/pgflibrarydecorations.pathreplacing.code.tex)) (/usr/local/texlive/2021/texmf-dist/tex/generic/pgfplots/libs/tikzlibrarypgfplots.contourlua.code.tex)
+\pgfplots@numplots=\count397
+\pgfplots@xmin@reg=\dimen345
+\pgfplots@xmax@reg=\dimen346
+\pgfplots@ymin@reg=\dimen347
+\pgfplots@ymax@reg=\dimen348
+\pgfplots@zmin@reg=\dimen349
+\pgfplots@zmax@reg=\dimen350
+) (/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibraryplotmarks.code.tex
+File: tikzlibraryplotmarks.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+ (/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/libraries/pgflibraryplotmarks.code.tex
+File: pgflibraryplotmarks.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+))) (/usr/local/texlive/2021/texmf-dist/tex/latex/parskip/parskip.sty
+Package: parskip 2021-03-14 v2.0h non-zero parskip adjustments
+) (/usr/local/texlive/2021/texmf-dist/tex/latex/lipsum/lipsum.sty (/usr/local/texlive/2021/texmf-dist/tex/latex/l3packages/l3keys2e/l3keys2e.sty (/usr/local/texlive/2021/texmf-dist/tex/latex/l3kernel/expl3.sty
+Package: expl3 2022-02-24 L3 programming layer (loader) 
+ (/usr/local/texlive/2021/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
+File: l3backend-pdftex.def 2022-02-07 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count398
+\l__pdf_internal_box=\box146
+))
+Package: l3keys2e 2022-01-12 LaTeX2e option processing using LaTeX3 keys
+)
+Package: lipsum 2021-09-20 v2.7 150 paragraphs of Lorem Ipsum dummy text
+\g__lipsum_par_int=\count399
+\l__lipsum_a_int=\count400
+\l__lipsum_b_int=\count401
+ (/usr/local/texlive/2021/texmf-dist/tex/latex/lipsum/lipsum.ltd.tex)) (/usr/local/texlive/2021/texmf-dist/tex/latex/mdframed/mdframed.sty
+Package: mdframed 2013/07/01 1.9b: mdframed
+ (/usr/local/texlive/2021/texmf-dist/tex/latex/l3packages/xparse/xparse.sty
+Package: xparse 2022-01-12 L3 Experimental document command parser
+) (/usr/local/texlive/2021/texmf-dist/tex/latex/zref/zref-abspage.sty
+Package: zref-abspage 2020-07-03 v2.32 Module abspage for zref (HO)
+ (/usr/local/texlive/2021/texmf-dist/tex/latex/zref/zref-base.sty
+Package: zref-base 2020-07-03 v2.32 Module base for zref (HO)
+Package zref Info: New property list: main on input line 764.
+Package zref Info: New property: default on input line 765.
+Package zref Info: New property: page on input line 766.
+)
+\c@abspage=\count402
+Package zref Info: New property: abspage on input line 66.
+) (/usr/local/texlive/2021/texmf-dist/tex/latex/needspace/needspace.sty
+Package: needspace 2010/09/12 v1.3d reserve vertical space
+)
+\mdf@templength=\skip79
+\c@mdf@globalstyle@cnt=\count403
+\mdf@skipabove@length=\skip80
+\mdf@skipbelow@length=\skip81
+\mdf@leftmargin@length=\skip82
+\mdf@rightmargin@length=\skip83
+\mdf@innerleftmargin@length=\skip84
+\mdf@innerrightmargin@length=\skip85
+\mdf@innertopmargin@length=\skip86
+\mdf@innerbottommargin@length=\skip87
+\mdf@splittopskip@length=\skip88
+\mdf@splitbottomskip@length=\skip89
+\mdf@outermargin@length=\skip90
+\mdf@innermargin@length=\skip91
+\mdf@linewidth@length=\skip92
+\mdf@innerlinewidth@length=\skip93
+\mdf@middlelinewidth@length=\skip94
+\mdf@outerlinewidth@length=\skip95
+\mdf@roundcorner@length=\skip96
+\mdf@footenotedistance@length=\skip97
+\mdf@userdefinedwidth@length=\skip98
+\mdf@needspace@length=\skip99
+\mdf@frametitleaboveskip@length=\skip100
+\mdf@frametitlebelowskip@length=\skip101
+\mdf@frametitlerulewidth@length=\skip102
+\mdf@frametitleleftmargin@length=\skip103
+\mdf@frametitlerightmargin@length=\skip104
+\mdf@shadowsize@length=\skip105
+\mdf@extratopheight@length=\skip106
+\mdf@subtitleabovelinewidth@length=\skip107
+\mdf@subtitlebelowlinewidth@length=\skip108
+\mdf@subtitleaboveskip@length=\skip109
+\mdf@subtitlebelowskip@length=\skip110
+\mdf@subtitleinneraboveskip@length=\skip111
+\mdf@subtitleinnerbelowskip@length=\skip112
+\mdf@subsubtitleabovelinewidth@length=\skip113
+\mdf@subsubtitlebelowlinewidth@length=\skip114
+\mdf@subsubtitleaboveskip@length=\skip115
+\mdf@subsubtitlebelowskip@length=\skip116
+\mdf@subsubtitleinneraboveskip@length=\skip117
+\mdf@subsubtitleinnerbelowskip@length=\skip118
+ (/usr/local/texlive/2021/texmf-dist/tex/latex/mdframed/md-frame-0.mdf
+File: md-frame-0.mdf 2013/07/01\ 1.9b: md-frame-0
+)
+\mdf@frametitlebox=\box147
+\mdf@footnotebox=\box148
+\mdf@splitbox@one=\box149
+\mdf@splitbox@two=\box150
+\mdf@splitbox@save=\box151
+\mdfsplitboxwidth=\skip119
+\mdfsplitboxtotalwidth=\skip120
+\mdfsplitboxheight=\skip121
+\mdfsplitboxdepth=\skip122
+\mdfsplitboxtotalheight=\skip123
+\mdfframetitleboxwidth=\skip124
+\mdfframetitleboxtotalwidth=\skip125
+\mdfframetitleboxheight=\skip126
+\mdfframetitleboxdepth=\skip127
+\mdfframetitleboxtotalheight=\skip128
+\mdffootnoteboxwidth=\skip129
+\mdffootnoteboxtotalwidth=\skip130
+\mdffootnoteboxheight=\skip131
+\mdffootnoteboxdepth=\skip132
+\mdffootnoteboxtotalheight=\skip133
+\mdftotallinewidth=\skip134
+\mdfboundingboxwidth=\skip135
+\mdfboundingboxtotalwidth=\skip136
+\mdfboundingboxheight=\skip137
+\mdfboundingboxdepth=\skip138
+\mdfboundingboxtotalheight=\skip139
+\mdf@freevspace@length=\skip140
+\mdf@horizontalwidthofbox@length=\skip141
+\mdf@verticalmarginwhole@length=\skip142
+\mdf@horizontalspaceofbox=\skip143
+\mdfsubtitleheight=\skip144
+\mdfsubsubtitleheight=\skip145
+\c@mdfcountframes=\count404
+
+****** mdframed patching \endmdf@trivlist
+
+****** -- success******
+
+\mdf@envdepth=\count405
+\c@mdf@env@i=\count406
+\c@mdf@env@ii=\count407
+\c@mdf@zref@counter=\count408
+Package zref Info: New property: mdf@pagevalue on input line 895.
+) (/usr/local/texlive/2021/texmf-dist/tex/latex/todonotes/todonotes.sty
+Package: todonotes 2021/06/04 v1.1.5 Todonotes source and documentation.
+Package: todonotes 2021/06/04
+\c@@todonotes@numberoftodonotes=\count409
+)
+
+Package float Warning: Can't redefine counter variable for algorithm. on input line 449.
+
+\@float@every@example=\toks66
+\c@example=\count410
+\verbatimizeup=\skip146
+\itemizeup=\skip147
+\LentryLen=\skip148
+(/usr/local/texlive/2021/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty
+Package: fancyhdr 2021/01/28 v4.0.1 Extensive control of page headers and footers
+\f@nch@headwidth=\skip149
+\f@nch@O@elh=\skip150
+\f@nch@O@erh=\skip151
+\f@nch@O@olh=\skip152
+\f@nch@O@orh=\skip153
+\f@nch@O@elf=\skip154
+\f@nch@O@erf=\skip155
+\f@nch@O@olf=\skip156
+\f@nch@O@orf=\skip157
+) (/usr/local/texlive/2021/texmf-dist/tex/latex/fancyvrb/fancyvrb.sty
+Package: fancyvrb 2021/12/21 4.1b verbatim text (tvz,hv)
+\FV@CodeLineNo=\count411
+\FV@InFile=\read5
+\FV@TabBox=\box152
+\c@FancyVerbLine=\count412
+\FV@StepNumber=\count413
+\FV@OutFile=\write4
+) (/usr/local/texlive/2021/texmf-dist/tex/latex/fancybox/fancybox.sty
+Package: fancybox 2010/05/15 1.4
+
+Style option: `fancybox' v1.4 <2010/05/15> (tvz)
+\@fancybox=\box153
+\shadowsize=\dimen351
+\@Sbox=\box154
+\do@VerbBox=\toks67
+\the@fancyput=\toks68
+\this@fancyput=\toks69
+\EndVerbatimTokens=\toks70
+\Verbatim@Outfile=\write5
+\Verbatim@Infile=\read6
+)
+\@indexfile=\write6
+\openout6 = `labbook.idx'.
+
+
+Writing index file labbook.idx
+(/usr/local/texlive/2021/texmf-dist/tex/latex/epstopdf-pkg/epstopdf.sty
+Package: epstopdf 2020-01-24 v2.11 Conversion with epstopdf on the fly (HO)
+ (/usr/local/texlive/2021/texmf-dist/tex/latex/grfext/grfext.sty
+Package: grfext 2019/12/03 v1.3 Manage graphics extensions (HO)
+) (/usr/local/texlive/2021/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 485.
+Package grfext Info: Graphics extension search list:
+(grfext)             [.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPEG,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 504.
+ (/usr/local/texlive/2021/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Live
+)))) (/usr/local/texlive/2021/texmf-dist/tex/latex/listings/lstlang1.sty
+File: lstlang1.sty 2020/03/24 1.8d listings language file
+)
+LaTeX Font Info:    Trying to load font information for T1+ptm on input line 53.
+ (/usr/local/texlive/2021/texmf-dist/tex/latex/psnfss/t1ptm.fd
+File: t1ptm.fd 2001/06/04 font definitions for T1/ptm.
+) (./labbook.aux)
+\openout1 = `labbook.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 53.
+LaTeX Font Info:    ... okay on input line 53.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 53.
+LaTeX Font Info:    ... okay on input line 53.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 53.
+LaTeX Font Info:    ... okay on input line 53.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 53.
+LaTeX Font Info:    ... okay on input line 53.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 53.
+LaTeX Font Info:    ... okay on input line 53.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 53.
+LaTeX Font Info:    ... okay on input line 53.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 53.
+LaTeX Font Info:    ... okay on input line 53.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 53.
+LaTeX Font Info:    ... okay on input line 53.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 53.
+LaTeX Font Info:    ... okay on input line 53.
+
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: a4paper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: includehead includefoot 
+* h-part:(L,W,R)=(56.9055pt, 483.69687pt, 56.9055pt)
+* v-part:(T,H,B)=(56.9055pt, 731.23584pt, 56.9055pt)
+* \paperwidth=597.50787pt
+* \paperheight=845.04684pt
+* \textwidth=483.69687pt
+* \textheight=664.23584pt
+* \oddsidemargin=0.0pt
+* \evensidemargin=0.0pt
+* \topmargin=-15.36449pt
+* \headheight=15.0pt
+* \headsep=25.0pt
+* \topskip=11.0pt
+* \footskip=30.0pt
+* \marginparwidth=0.0pt
+* \marginparsep=0.0pt
+* \columnsep=10.0pt
+* \skip\footins=10.0pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+(/usr/local/texlive/2021/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count414
+\scratchdimen=\dimen352
+\scratchbox=\box155
+\nofMPsegments=\count415
+\nofMParguments=\count416
+\everyMPshowfont=\toks71
+\MPscratchCnt=\count417
+\MPscratchDim=\dimen353
+\MPnumerator=\count418
+\makeMPintoPDFobject=\count419
+\everyMPtoPDFconversion=\toks72
+)
+LaTeX Info: Redefining \microtypecontext on input line 53.
+Package microtype Info: Applying patch `item' on input line 53.
+Package microtype Info: Applying patch `toc' on input line 53.
+Package microtype Info: Applying patch `eqnum' on input line 53.
+Package microtype Info: Applying patch `footnote' on input line 53.
+Package microtype Info: Generating PDF output.
+Package microtype Info: Character protrusion enabled (level 2).
+Package microtype Info: Using default protrusion set `alltext'.
+Package microtype Info: Automatic font expansion enabled (level 2),
+(microtype)             stretch: 20, shrink: 20, step: 1, non-selected.
+Package microtype Info: Using default expansion set `alltext-nott'.
+LaTeX Info: Redefining \showhyphens on input line 53.
+Package microtype Info: Tracking enabled.
+Package microtype Info: Using default tracking set `smallcaps'.
+Package microtype Info: Adjustment of interword spacing enabled.
+Package microtype Info: Using default spacing set `alltext-nott'.
+Package microtype Info: Adjustment of character kerning enabled.
+Package microtype Info: Using default kerning set `alltext'.
+ (/usr/local/texlive/2021/texmf-dist/tex/latex/microtype/mt-ptm.cfg
+File: mt-ptm.cfg 2006/04/20 v1.7 microtype config. file: Times (RS)
+) (/usr/local/texlive/2021/texmf-dist/tex/latex/pdflscape/pdflscape.sty
+Package: pdflscape 2019/12/05 v0.12 Display of landscape pages in PDF (HO)
+ (/usr/local/texlive/2021/texmf-dist/tex/latex/graphics/lscape.sty
+Package: lscape 2020/05/28 v3.02 Landscape Pages (DPC)
+)
+Package pdflscape Info: Auto-detected driver: pdftex on input line 81.
+)
+Package lastpage Info: Please have a look at the pageslts package at
+(lastpage)             https://www.ctan.org/pkg/pageslts
+(lastpage)             ! on input line 53.
+Package hyperref Info: Link coloring ON on input line 53.
+ (/usr/local/texlive/2021/texmf-dist/tex/latex/hyperref/nameref.sty
+Package: nameref 2021-04-02 v2.47 Cross-referencing by name of section
+ (/usr/local/texlive/2021/texmf-dist/tex/latex/refcount/refcount.sty
+Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
+) (/usr/local/texlive/2021/texmf-dist/tex/generic/gettitlestring/gettitlestring.sty
+Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
+)
+\c@section@level=\count420
+)
+LaTeX Info: Redefining \ref on input line 53.
+LaTeX Info: Redefining \pageref on input line 53.
+LaTeX Info: Redefining \nameref on input line 53.
+ (./labbook.out) (./labbook.out)
+\@outlinefile=\write7
+\openout7 = `labbook.out'.
+
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: listings package is loaded.
+Package caption Info: End \AtBeginDocument code.
+\c@lstlisting=\count421
+
+Package pgfplots notification 'compat/show suggested version=true': document has been generated with the most recent feature set (\pgfplotsset{compat=1.18}).
+
+
+Package todonotes Warning: The length marginparwidth is less than 2cm and will most likely cause issues with the appearance of inserted todonotes. The issue can be solved by adding a line like \setlength {\marginparwidth }{2cm} prior to loading the todonotes package. on input line 53.
+
+(./title.tex
+LaTeX Font Info:    Trying to load font information for T1+pag on input line 12.
+ (/usr/local/texlive/2021/texmf-dist/tex/latex/psnfss/t1pag.fd
+File: t1pag.fd 2001/06/04 font definitions for T1/pag.
+)
+Package microtype Info: Loading generic protrusion settings for font family
+(microtype)             `pag' (encoding: T1).
+(microtype)             For optimal results, create family-specific settings.
+(microtype)             See the microtype manual for details.
+Package epstopdf Info: Source file: <up-logo.eps>
+(epstopdf)                    date: 2014-08-24 16:12:40
+(epstopdf)                    size: 46853 bytes
+(epstopdf)             Output file: <up-logo-eps-converted-to.pdf>
+(epstopdf)                    date: 2022-03-23 11:34:48
+(epstopdf)                    size: 44985 bytes
+(epstopdf)             Command: <repstopdf --outfile=up-logo-eps-converted-to.pdf up-logo.eps>
+(epstopdf)             \includegraphics on input line 16.
+Package epstopdf Info: Output file is already uptodate.
+<up-logo-eps-converted-to.pdf, id=529, 718.685pt x 196.735pt>
+File: up-logo-eps-converted-to.pdf Graphic file (type pdf)
+<use up-logo-eps-converted-to.pdf>
+Package pdftex.def Info: up-logo-eps-converted-to.pdf  used on input line 16.
+(pdftex.def)             Requested size: 284.52756pt x 77.88808pt.
+LaTeX Font Info:    Trying to load font information for T1+bch on input line 20.
+ (/usr/local/texlive/2021/texmf-dist/tex/latex/psnfss/t1bch.fd
+File: t1bch.fd 2004/10/18 font definitions for T1/bch.
+) (/usr/local/texlive/2021/texmf-dist/tex/latex/microtype/mt-bch.cfg
+File: mt-bch.cfg 2007/03/03 v1.5 microtype config. file: Bitstream Charter (RS)
+)
+LaTeX Font Info:    Trying to load font information for T1+phv on input line 24.
+ (/usr/local/texlive/2021/texmf-dist/tex/latex/psnfss/t1phv.fd
+File: t1phv.fd 2020/03/25 scalable font definitions for T1/phv.
+)
+LaTeX Font Info:    Font shape `T1/phv/m/sc' will be
+(Font)              scaled to size 11.03998pt on input line 24.
+Package microtype Info: Loading generic protrusion settings for font family
+(microtype)             `phv' (encoding: T1).
+(microtype)             For optimal results, create family-specific settings.
+(microtype)             See the microtype manual for details.
+LaTeX Font Info:    Trying to load font information for T1+pcr on input line 25.
+ (/usr/local/texlive/2021/texmf-dist/tex/latex/psnfss/t1pcr.fd
+File: t1pcr.fd 2001/06/04 font definitions for T1/pcr.
+)
+Package microtype Info: Loading generic protrusion settings for font family
+(microtype)             `pcr' (encoding: T1).
+(microtype)             For optimal results, create family-specific settings.
+(microtype)             See the microtype manual for details.
+LaTeX Font Info:    Trying to load font information for OT1+ztmcm on input line 25.
+ (/usr/local/texlive/2021/texmf-dist/tex/latex/psnfss/ot1ztmcm.fd
+File: ot1ztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OT1/ztmcm.
+)
+Package microtype Info: Loading generic protrusion settings for font family
+(microtype)             `ztmcm' (encoding: OT1).
+(microtype)             For optimal results, create family-specific settings.
+(microtype)             See the microtype manual for details.
+LaTeX Font Info:    Trying to load font information for OML+ztmcm on input line 25.
+ (/usr/local/texlive/2021/texmf-dist/tex/latex/psnfss/omlztmcm.fd
+File: omlztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OML/ztmcm.
+)
+LaTeX Font Info:    Trying to load font information for OMS+ztmcm on input line 25.
+ (/usr/local/texlive/2021/texmf-dist/tex/latex/psnfss/omsztmcm.fd
+File: omsztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OMS/ztmcm.
+)
+LaTeX Font Info:    Trying to load font information for OMX+ztmcm on input line 25.
+ (/usr/local/texlive/2021/texmf-dist/tex/latex/psnfss/omxztmcm.fd
+File: omxztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OMX/ztmcm.
+)
+LaTeX Font Info:    Trying to load font information for OT1+ptm on input line 25.
+ (/usr/local/texlive/2021/texmf-dist/tex/latex/psnfss/ot1ptm.fd
+File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
+)
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <10.95> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 25.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <8> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 25.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <6> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 25.
+ (/usr/local/texlive/2021/texmf-dist/tex/latex/microtype/mt-msa.cfg
+File: mt-msa.cfg 2006/02/04 v1.1 microtype config. file: AMS symbols (a) (RS)
+) (/usr/local/texlive/2021/texmf-dist/tex/latex/microtype/mt-msb.cfg
+File: mt-msb.cfg 2005/06/01 v1.0 microtype config. file: AMS symbols (b) (RS)
+) (/usr/local/texlive/2021/texmf-dist/tex/latex/microtype/mt-eur.cfg
+File: mt-eur.cfg 2006/07/31 v1.1 microtype config. file: AMS Euler Roman (RS)
+)
+LaTeX Font Info:    Trying to load font information for U+wasy on input line 25.
+ (/usr/local/texlive/2021/texmf-dist/tex/latex/wasysym/uwasy.fd
+File: uwasy.fd 2020/01/19 v2.4 Wasy-2 symbol font definitions
+)
+LaTeX Font Info:    Font shape `T1/pag/b/n' in size <14.4> not available
+(Font)              Font shape `T1/pag/db/n' tried instead on input line 29.
+LaTeX Font Info:    Font shape `T1/pag/b/n' in size <12> not available
+(Font)              Font shape `T1/pag/db/n' tried instead on input line 36.
+LaTeX Font Info:    Font shape `T1/pag/b/n' in size <10.95> not available
+(Font)              Font shape `T1/pag/db/n' tried instead on input line 43.
+LaTeX Font Info:    Font shape `T1/pag/b/n' in size <8> not available
+(Font)              Font shape `T1/pag/db/n' tried instead on input line 43.
+LaTeX Font Info:    Trying to load font information for T1+lmss on input line 47.
+ (/usr/local/texlive/2021/texmf-dist/tex/latex/lm/t1lmss.fd
+File: t1lmss.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
+)
+Package microtype Info: Loading generic protrusion settings for font family
+(microtype)             `lmss' (encoding: T1).
+(microtype)             For optimal results, create family-specific settings.
+(microtype)             See the microtype manual for details.
+LaTeX Font Info:    Font shape `T1/lmss/b/n' in size <24.88> not available
+(Font)              Font shape `T1/lmss/bx/n' tried instead on input line 47.
+)
+LaTeX Font Info:    Trying to load font information for T1+cmbr on input line 61.
+ (/usr/local/texlive/2021/texmf-dist/tex/latex/cmbright/t1cmbr.fd
+File: t1cmbr.fd 2005/04/13 v8.1 (WaS)
+)
+Package microtype Info: Loading generic protrusion settings for font family
+(microtype)             `cmbr' (encoding: T1).
+(microtype)             For optimal results, create family-specific settings.
+(microtype)             See the microtype manual for details.
+ [1
+
+{/usr/local/texlive/2021/texmf-var/fonts/map/pdftex/updmap/pdftex.map} <./up-logo-eps-converted-to.pdf>]
+LaTeX Font Info:    Font shape `T1/cmbr/b/n' in size <24.88> not available
+(Font)              Font shape `T1/cmbr/bx/n' tried instead on input line 61.
+
+Overfull \hbox (30.0pt too wide) in paragraph at lines 61--61
+|[] 
+ []
+
+(./labbook.toc
+LaTeX Font Info:    Font shape `T1/cmbr/b/n' in size <10> not available
+(Font)              Font shape `T1/cmbr/bx/n' tried instead on input line 2.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <10> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 3.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <7.4> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 3.
+LaTeX Font Info:    Trying to load font information for T1+ppl on input line 40.
+ (/usr/local/texlive/2021/texmf-dist/tex/latex/psnfss/t1ppl.fd
+File: t1ppl.fd 2001/06/04 font definitions for T1/ppl.
+) (/usr/local/texlive/2021/texmf-dist/tex/latex/microtype/mt-ppl.cfg
+File: mt-ppl.cfg 2005/11/16 v1.6 microtype config. file: Palatino (RS)
+)
+LaTeX Font Info:    Trying to load font information for T1+put on input line 40.
+ (/usr/local/texlive/2021/texmf-dist/tex/latex/psnfss/t1put.fd
+File: t1put.fd 2001/06/04 font definitions for T1/put.
+)
+Package microtype Info: Loading generic protrusion settings for font family
+(microtype)             `put' (encoding: T1).
+(microtype)             For optimal results, create family-specific settings.
+(microtype)             See the microtype manual for details.
+LaTeX Font Info:    Font shape `T1/phv/m/n' will be
+(Font)              scaled to size 7.35999pt on input line 40.
+ [2
+
+] [3])
+\tf@toc=\write8
+\openout8 = `labbook.toc'.
+
+ [4] (./2022/202203.tex
+Chapter 1.
+
+Overfull \hbox (30.0pt too wide) in paragraph at lines 1--1
+|[] 
+ []
+
+LaTeX Font Info:    Font shape `T1/cmbr/b/n' in size <14.4> not available
+(Font)              Font shape `T1/cmbr/bx/n' tried instead on input line 3.
+LaTeX Font Info:    Font shape `T1/cmbr/b/n' in size <12> not available
+(Font)              Font shape `T1/cmbr/bx/n' tried instead on input line 5.
+
+Underfull \hbox (badness 10000) in paragraph at lines 6--7
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 8--9
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 12--13
+
+ []
+
+[5
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 16--17
+
+ []
+
+[6]
+LaTeX Font Info:    Trying to load font information for TS1+ptm on input line 24.
+ (/usr/local/texlive/2021/texmf-dist/tex/latex/psnfss/ts1ptm.fd
+File: ts1ptm.fd 2001/06/04 font definitions for TS1/ptm.
+)
+
+Package microtype Warning: I cannot find a spacing list for font
+(microtype)                `TS1/ptm/m/n/10.95' (context: `nonfrench'). Switching off
+(microtype)                spacing for this font on input line 24.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 29--30
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 33--34
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 37--38
+
+ []
+
+[7
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 39--40
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 41--42
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 43--44
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 45--46
+
+ []
+
+) (./2022/202204.tex [8] [9]
+Chapter 2.
+
+Overfull \hbox (30.0pt too wide) in paragraph at lines 1--1
+|[] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 8--9
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 10--11
+
+ []
+
+<2022//figures/teachable_machine_1.png, id=748, 608.2725pt x 750.805pt>
+File: 2022//figures/teachable_machine_1.png Graphic file (type png)
+<use 2022//figures/teachable_machine_1.png>
+Package pdftex.def Info: 2022//figures/teachable_machine_1.png  used on input line 14.
+(pdftex.def)             Requested size: 193.47578pt x 238.80754pt.
+LaTeX Font Info:    Font shape `T1/phv/b/n' will be
+(Font)              scaled to size 9.19998pt on input line 15.
+<2022//figures/teachable_machine_2.png, id=750, 595.22375pt x 739.76375pt>
+File: 2022//figures/teachable_machine_2.png Graphic file (type png)
+<use 2022//figures/teachable_machine_2.png>
+Package pdftex.def Info: 2022//figures/teachable_machine_2.png  used on input line 20.
+(pdftex.def)             Requested size: 193.47578pt x 240.45422pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 25--26
+
+ []
+
+<2022//figures/room_cube.png, id=752, 4625.28pt x 2135.98pt>
+File: 2022//figures/room_cube.png Graphic file (type png)
+<use 2022//figures/room_cube.png>
+Package pdftex.def Info: 2022//figures/room_cube.png  used on input line 29.
+(pdftex.def)             Requested size: 386.95897pt x 178.67146pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 34--35
+
+ []
+
+[10
+
+] [11 <./2022//figures/teachable_machine_1.png> <./2022//figures/teachable_machine_2.png>] [12 <./2022//figures/room_cube.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 40--41
+
+ []
+
+<2022//figures/Functional Block Diagram_draft2.png, id=779, 813.0375pt x 393.8715pt>
+File: 2022//figures/Functional Block Diagram_draft2.png Graphic file (type png)
+<use 2022//figures/Functional Block Diagram_draft2.png>
+Package pdftex.def Info: 2022//figures/Functional Block Diagram_draft2.png  used on input line 44.
+(pdftex.def)             Requested size: 483.69687pt x 234.3234pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 51--52
+
+ []
+
+<2022//figures/ultrasonic_prototype_setup2.jpg, id=783, 4625.28pt x 2135.98pt>
+File: 2022//figures/ultrasonic_prototype_setup2.jpg Graphic file (type jpg)
+<use 2022//figures/ultrasonic_prototype_setup2.jpg>
+Package pdftex.def Info: 2022//figures/ultrasonic_prototype_setup2.jpg  used on input line 55.
+(pdftex.def)             Requested size: 241.84843pt x 111.66151pt.
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<2022//figures/ultrasonic_prototype_setup1.jpg, id=784, 4625.28pt x 2135.98pt>
+File: 2022//figures/ultrasonic_prototype_setup1.jpg Graphic file (type jpg)
+<use 2022//figures/ultrasonic_prototype_setup1.jpg>
+Package pdftex.def Info: 2022//figures/ultrasonic_prototype_setup1.jpg  used on input line 62.
+(pdftex.def)             Requested size: 241.84843pt x 111.66151pt.
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<2022//figures/ultrasonic_prototype_graph.png, id=785, 462.528pt x 346.896pt>
+File: 2022//figures/ultrasonic_prototype_graph.png Graphic file (type png)
+<use 2022//figures/ultrasonic_prototype_graph.png>
+Package pdftex.def Info: 2022//figures/ultrasonic_prototype_graph.png  used on input line 69.
+(pdftex.def)             Requested size: 193.47578pt x 145.10777pt.
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 74--75
+
+ []
+
+[13
+
+ <./2022//figures/Functional Block Diagram_draft2.png>] [14 <./2022//figures/ultrasonic_prototype_setup2.jpg> <./2022//figures/ultrasonic_prototype_setup1.jpg> <./2022//figures/ultrasonic_prototype_graph.png>] [15]
+Underfull \hbox (badness 10000) in paragraph at lines 80--81
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 82--83
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 84--85
+
+ []
+
+[16
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 90--91
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 92--93
+
+ []
+
+<2022//figures/esp32_cam_open.png, id=821, 416.55624pt x 816.04875pt>
+File: 2022//figures/esp32_cam_open.png Graphic file (type png)
+<use 2022//figures/esp32_cam_open.png>
+Package pdftex.def Info: 2022//figures/esp32_cam_open.png  used on input line 96.
+(pdftex.def)             Requested size: 145.11053pt x 284.27654pt.
+<2022//figures/esp32_cam_fist.png, id=822, 403.5075pt x 779.91376pt>
+File: 2022//figures/esp32_cam_fist.png Graphic file (type png)
+<use 2022//figures/esp32_cam_fist.png>
+Package pdftex.def Info: 2022//figures/esp32_cam_fist.png  used on input line 103.
+(pdftex.def)             Requested size: 145.11053pt x 280.47122pt.
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[17
+
+ <./2022//figures/esp32_cam_open.png>] [18 <./2022//figures/esp32_cam_fist.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 112--113
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 114--115
+
+ []
+
+[19
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 120--121
+
+ []
+
+<2022//figures/kinect_demo.png, id=845, 1282.7925pt x 511.9125pt>
+File: 2022//figures/kinect_demo.png Graphic file (type png)
+<use 2022//figures/kinect_demo.png>
+Package pdftex.def Info: 2022//figures/kinect_demo.png  used on input line 124.
+(pdftex.def)             Requested size: 386.95897pt x 154.41853pt.
+[20
+
+ <./2022//figures/kinect_demo.png>] [21
+
+] [22]
+Underfull \hbox (badness 10000) in paragraph at lines 187--188
+
+ []
+
+<2022//figures/red_thresholder_original.png, id=865, 1284.8pt x 722.7pt>
+File: 2022//figures/red_thresholder_original.png Graphic file (type png)
+<use 2022//figures/red_thresholder_original.png>
+Package pdftex.def Info: 2022//figures/red_thresholder_original.png  used on input line 193.
+(pdftex.def)             Requested size: 193.47578pt x 108.81937pt.
+<2022//figures/red_thresholder_test.png, id=866, 1284.8pt x 722.7pt>
+File: 2022//figures/red_thresholder_test.png Graphic file (type png)
+<use 2022//figures/red_thresholder_test.png>
+Package pdftex.def Info: 2022//figures/red_thresholder_test.png  used on input line 200.
+(pdftex.def)             Requested size: 193.47578pt x 108.81937pt.
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<2022//figures/threshold_binary.png, id=869, 1284.8pt x 722.7pt>
+File: 2022//figures/threshold_binary.png Graphic file (type png)
+<use 2022//figures/threshold_binary.png>
+Package pdftex.def Info: 2022//figures/threshold_binary.png  used on input line 209.
+(pdftex.def)             Requested size: 193.47578pt x 108.81937pt.
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<2022//figures/threshold_binary_inverse.png, id=870, 1284.8pt x 722.7pt>
+File: 2022//figures/threshold_binary_inverse.png Graphic file (type png)
+<use 2022//figures/threshold_binary_inverse.png>
+Package pdftex.def Info: 2022//figures/threshold_binary_inverse.png  used on input line 216.
+(pdftex.def)             Requested size: 193.47578pt x 108.81937pt.
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<2022//figures/threshold_truncated.png, id=871, 1284.8pt x 722.7pt>
+File: 2022//figures/threshold_truncated.png Graphic file (type png)
+<use 2022//figures/threshold_truncated.png>
+Package pdftex.def Info: 2022//figures/threshold_truncated.png  used on input line 223.
+(pdftex.def)             Requested size: 193.47578pt x 108.81937pt.
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<2022//figures/threshold_zero.png, id=872, 1284.8pt x 722.7pt>
+File: 2022//figures/threshold_zero.png Graphic file (type png)
+<use 2022//figures/threshold_zero.png>
+Package pdftex.def Info: 2022//figures/threshold_zero.png  used on input line 230.
+(pdftex.def)             Requested size: 193.47578pt x 108.81937pt.
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<2022//figures/threshold_zero_inverse.png, id=873, 1284.8pt x 722.7pt>
+File: 2022//figures/threshold_zero_inverse.png Graphic file (type png)
+<use 2022//figures/threshold_zero_inverse.png>
+Package pdftex.def Info: 2022//figures/threshold_zero_inverse.png  used on input line 237.
+(pdftex.def)             Requested size: 193.47578pt x 108.81937pt.
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+) (./2022/202205.tex [23
+
+ <./2022//figures/red_thresholder_original.png>] [24 <./2022//figures/red_thresholder_test.png> <./2022//figures/threshold_binary.png> <./2022//figures/threshold_binary_inverse.png> <./2022//figures/threshold_truncated.png>] [25 <./2022//figures/threshold_zero.png> <./2022//figures/threshold_zero_inverse.png>]
+Chapter 3.
+
+Overfull \hbox (30.0pt too wide) in paragraph at lines 1--1
+|[] 
+ []
+
+<2022//figures/libfreenect_success.png, id=900, 781.92125pt x 761.84625pt>
+File: 2022//figures/libfreenect_success.png Graphic file (type png)
+<use 2022//figures/libfreenect_success.png>
+Package pdftex.def Info: 2022//figures/libfreenect_success.png  used on input line 11.
+(pdftex.def)             Requested size: 241.84843pt x 235.63515pt.
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[26
+
+] [27 <./2022//figures/libfreenect_success.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 29--30
+
+ []
+
+<2022//figures/mediapipe_app.png, id=915, 1445.4pt x 903.375pt>
+File: 2022//figures/mediapipe_app.png Graphic file (type png)
+<use 2022//figures/mediapipe_app.png>
+Package pdftex.def Info: 2022//figures/mediapipe_app.png  used on input line 35.
+(pdftex.def)             Requested size: 338.58632pt x 211.61772pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 40--41
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 42--43
+
+ []
+
+[28
+
+ <./2022//figures/mediapipe_app.png>]
+<2022//figures/mediapipe_prototype_output.png, id=925, 1014.79124pt x 694.595pt>
+File: 2022//figures/mediapipe_prototype_output.png Graphic file (type png)
+<use 2022//figures/mediapipe_prototype_output.png>
+Package pdftex.def Info: 2022//figures/mediapipe_prototype_output.png  used on input line 46.
+(pdftex.def)             Requested size: 338.58632pt x 231.75014pt.
+ [29 <./2022//figures/mediapipe_prototype_output.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 64--65
+
+ []
+
+[30
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 76--77
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 78--79
+
+ []
+
+<2022//figures/NN_input_graph.png, id=945, 663.47874pt x 587.19376pt>
+File: 2022//figures/NN_input_graph.png Graphic file (type png)
+<use 2022//figures/NN_input_graph.png>
+Package pdftex.def Info: 2022//figures/NN_input_graph.png  used on input line 84.
+(pdftex.def)             Requested size: 241.84843pt x 214.0417pt.
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<2022//figures/NN_prototype_600_epochs.png, id=946, 462.528pt x 346.896pt>
+File: 2022//figures/NN_prototype_600_epochs.png Graphic file (type png)
+<use 2022//figures/NN_prototype_600_epochs.png>
+Package pdftex.def Info: 2022//figures/NN_prototype_600_epochs.png  used on input line 91.
+(pdftex.def)             Requested size: 290.22107pt x 217.67754pt.
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<2022//figures/NN_prototype_10000_epochs.png, id=948, 462.528pt x 346.896pt>
+File: 2022//figures/NN_prototype_10000_epochs.png Graphic file (type png)
+<use 2022//figures/NN_prototype_10000_epochs.png>
+Package pdftex.def Info: 2022//figures/NN_prototype_10000_epochs.png  used on input line 100.
+(pdftex.def)             Requested size: 290.22107pt x 217.67754pt.
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<2022//figures/NN_prototype_lrate_0.1_600_epochs.png, id=951, 528.97626pt x 316.18124pt>
+File: 2022//figures/NN_prototype_lrate_0.1_600_epochs.png Graphic file (type png)
+<use 2022//figures/NN_prototype_lrate_0.1_600_epochs.png>
+Package pdftex.def Info: 2022//figures/NN_prototype_lrate_0.1_600_epochs.png  used on input line 109.
+(pdftex.def)             Requested size: 338.58632pt x 202.37943pt.
+[31
+
+]
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<2022//figures/NN_prototype_lrate_0.1_600_epochs_end.png, id=962, 543.02875pt x 236.885pt>
+File: 2022//figures/NN_prototype_lrate_0.1_600_epochs_end.png Graphic file (type png)
+<use 2022//figures/NN_prototype_lrate_0.1_600_epochs_end.png>
+Package pdftex.def Info: 2022//figures/NN_prototype_lrate_0.1_600_epochs_end.png  used on input line 116.
+(pdftex.def)             Requested size: 338.58632pt x 147.70575pt.
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<2022//figures/NN_prototype_overfitting_test.png, id=964, 427.5975pt x 184.69pt>
+File: 2022//figures/NN_prototype_overfitting_test.png Graphic file (type png)
+<use 2022//figures/NN_prototype_overfitting_test.png>
+Package pdftex.def Info: 2022//figures/NN_prototype_overfitting_test.png  used on input line 125.
+(pdftex.def)             Requested size: 338.58632pt x 146.24448pt.
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[32 <./2022//figures/NN_input_graph.png>] [33 <./2022//figures/NN_prototype_600_epochs.png> <./2022//figures/NN_prototype_10000_epochs.png>] [34 <./2022//figures/NN_prototype_lrate_0.1_600_epochs.png> <./2022//figures/NN_prototype_lrate_0.1_600_epochs_end.png> <./2022//figures/NN_prototype_overfitting_test.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 137--138
+
+ []
+
+<2022//figures/kernel_identity.png, id=993, 867.24pt x 361.35pt>
+File: 2022//figures/kernel_identity.png Graphic file (type png)
+<use 2022//figures/kernel_identity.png>
+Package pdftex.def Info: 2022//figures/kernel_identity.png  used on input line 143.
+(pdftex.def)             Requested size: 435.32422pt x 181.38583pt.
+<2022//figures/kernel_edge_detection_1.png, id=994, 867.24pt x 361.35pt>
+File: 2022//figures/kernel_edge_detection_1.png Graphic file (type png)
+<use 2022//figures/kernel_edge_detection_1.png>
+Package pdftex.def Info: 2022//figures/kernel_edge_detection_1.png  used on input line 150.
+(pdftex.def)             Requested size: 435.32422pt x 181.38583pt.
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<2022//figures/kernel_edge_detection_2.png, id=995, 867.24pt x 361.35pt>
+File: 2022//figures/kernel_edge_detection_2.png Graphic file (type png)
+<use 2022//figures/kernel_edge_detection_2.png>
+Package pdftex.def Info: 2022//figures/kernel_edge_detection_2.png  used on input line 157.
+(pdftex.def)             Requested size: 435.32422pt x 181.38583pt.
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<2022//figures/kernel_left_sobel.png, id=996, 867.24pt x 361.35pt>
+File: 2022//figures/kernel_left_sobel.png Graphic file (type png)
+<use 2022//figures/kernel_left_sobel.png>
+Package pdftex.def Info: 2022//figures/kernel_left_sobel.png  used on input line 164.
+(pdftex.def)             Requested size: 435.32422pt x 181.38583pt.
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<2022//figures/kernel_right_sobel.png, id=997, 845.559pt x 364.9635pt>
+File: 2022//figures/kernel_right_sobel.png Graphic file (type png)
+<use 2022//figures/kernel_right_sobel.png>
+Package pdftex.def Info: 2022//figures/kernel_right_sobel.png  used on input line 171.
+(pdftex.def)             Requested size: 435.32422pt x 187.89983pt.
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[35
+
+ <./2022//figures/kernel_identity.png>] [36 <./2022//figures/kernel_edge_detection_1.png> <./2022//figures/kernel_edge_detection_2.png>] [37 <./2022//figures/kernel_left_sobel.png> <./2022//figures/kernel_right_sobel.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 180--181
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 182--183
+
+ []
+
+<2022//figures/OpenGL_cube.png, id=1025, 846.16125pt x 660.4675pt>
+File: 2022//figures/OpenGL_cube.png Graphic file (type png)
+<use 2022//figures/OpenGL_cube.png>
+Package pdftex.def Info: 2022//figures/OpenGL_cube.png  used on input line 186.
+(pdftex.def)             Requested size: 290.22107pt x 226.53125pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 191--192
+
+ []
+
+<2022//figures/OpenGL_cube1.png, id=1027, 732.7375pt x 660.4675pt>
+File: 2022//figures/OpenGL_cube1.png Graphic file (type png)
+<use 2022//figures/OpenGL_cube1.png>
+Package pdftex.def Info: 2022//figures/OpenGL_cube1.png  used on input line 195.
+(pdftex.def)             Requested size: 290.22107pt x 261.60237pt.
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+) (./2022/202206.tex [38
+
+ <./2022//figures/OpenGL_cube.png>] [39 <./2022//figures/OpenGL_cube1.png>]
+Chapter 4.
+
+Overfull \hbox (30.0pt too wide) in paragraph at lines 1--1
+|[] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 7--8
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 9--10
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 11--12
+
+ []
+
+<2022//figures/OpenGL Mediapipe Cube.png, id=1043, 863.225pt x 691.58376pt>
+File: 2022//figures/OpenGL Mediapipe Cube.png Graphic file (type png)
+<use 2022//figures/OpenGL Mediapipe Cube.png>
+Package pdftex.def Info: 2022//figures/OpenGL Mediapipe Cube.png  used on input line 15.
+(pdftex.def)             Requested size: 290.22107pt x 232.50774pt.
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[40
+
+] [41 <./2022//figures/OpenGL Mediapipe Cube.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 24--25
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 26--27
+
+ []
+
+<2022//figures/python_mediapipe_hands.png, id=1057, 1273.75874pt x 709.65125pt>
+File: 2022//figures/python_mediapipe_hands.png Graphic file (type png)
+<use 2022//figures/python_mediapipe_hands.png>
+Package pdftex.def Info: 2022//figures/python_mediapipe_hands.png  used on input line 30.
+(pdftex.def)             Requested size: 290.22107pt x 161.68954pt.
+[42
+
+ <./2022//figures/python_mediapipe_hands.png>] [43]
+Underfull \hbox (badness 10000) in paragraph at lines 54--55
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 57--58
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 61--62
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 63--64
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 65--66
+
+ []
+
+[44
+
+]) (./2022/202207.tex
+Underfull \hbox (badness 10000) in paragraph at lines 67--1
+
+ []
+
+[45]
+Chapter 5.
+
+Overfull \hbox (30.0pt too wide) in paragraph at lines 1--1
+|[] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 7--8
+
+ []
+
+<2022//figures/conv_alg_labbook.jpg, id=1089, 4625.28pt x 3468.96pt>
+File: 2022//figures/conv_alg_labbook.jpg Graphic file (type jpg)
+<use 2022//figures/conv_alg_labbook.jpg>
+Package pdftex.def Info: 2022//figures/conv_alg_labbook.jpg  used on input line 11.
+(pdftex.def)             Requested size: 483.69687pt x 362.743pt.
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<2022//figures/conv_maths_labbook.jpg, id=1091, 4625.28pt x 3468.96pt>
+File: 2022//figures/conv_maths_labbook.jpg Graphic file (type jpg)
+<use 2022//figures/conv_maths_labbook.jpg>
+Package pdftex.def Info: 2022//figures/conv_maths_labbook.jpg  used on input line 20.
+(pdftex.def)             Requested size: 483.69687pt x 362.743pt.
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[46
+
+] [47 <./2022//figures/conv_alg_labbook.jpg>] [48 <./2022//figures/conv_maths_labbook.jpg>] [49
+
+] [50
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 43--44
+
+ []
+
+[51
+
+] [52
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 57--58
+
+ []
+
+<2022//figures/mnist_first_5_results.png, id=1131, 961.5925pt x 280.04625pt>
+File: 2022//figures/mnist_first_5_results.png Graphic file (type png)
+<use 2022//figures/mnist_first_5_results.png>
+Package pdftex.def Info: 2022//figures/mnist_first_5_results.png  used on input line 61.
+(pdftex.def)             Requested size: 386.95897pt x 112.69594pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 66--67
+
+ []
+
+[53
+
+ <./2022//figures/mnist_first_5_results.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 74--75
+
+ []
+
+<2022//figures/hand_conv_arch_labbook.jpg, id=1140, 4625.28pt x 3468.96pt>
+File: 2022//figures/hand_conv_arch_labbook.jpg Graphic file (type jpg)
+<use 2022//figures/hand_conv_arch_labbook.jpg>
+Package pdftex.def Info: 2022//figures/hand_conv_arch_labbook.jpg  used on input line 79.
+(pdftex.def)             Requested size: 483.69687pt x 362.743pt.
+[54
+
+ <./2022//figures/hand_conv_arch_labbook.jpg>] [55]
+Underfull \hbox (badness 10000) in paragraph at lines 92--93
+
+ []
+
+<2022//figures/gesture_recognizer_loss_curve.png, id=1154, 462.528pt x 346.896pt>
+File: 2022//figures/gesture_recognizer_loss_curve.png Graphic file (type png)
+<use 2022//figures/gesture_recognizer_loss_curve.png>
+Package pdftex.def Info: 2022//figures/gesture_recognizer_loss_curve.png  used on input line 98.
+(pdftex.def)             Requested size: 290.22107pt x 217.67754pt.
+<2022//figures/predictedGesture_rockon.jpg, id=1155, 1284.8pt x 722.7pt>
+File: 2022//figures/predictedGesture_rockon.jpg Graphic file (type jpg)
+<use 2022//figures/predictedGesture_rockon.jpg>
+Package pdftex.def Info: 2022//figures/predictedGesture_rockon.jpg  used on input line 105.
+(pdftex.def)             Requested size: 290.22107pt x 163.2511pt.
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<2022//figures/predictedGesture_one.jpg, id=1156, 1284.8pt x 722.7pt>
+File: 2022//figures/predictedGesture_one.jpg Graphic file (type jpg)
+<use 2022//figures/predictedGesture_one.jpg>
+Package pdftex.def Info: 2022//figures/predictedGesture_one.jpg  used on input line 112.
+(pdftex.def)             Requested size: 290.22107pt x 163.2511pt.
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<2022//figures/predictedGesture_peace.jpg, id=1157, 1284.8pt x 722.7pt>
+File: 2022//figures/predictedGesture_peace.jpg Graphic file (type jpg)
+<use 2022//figures/predictedGesture_peace.jpg>
+Package pdftex.def Info: 2022//figures/predictedGesture_peace.jpg  used on input line 119.
+(pdftex.def)             Requested size: 290.22107pt x 163.2511pt.
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<2022//figures/predictedGesture_ok.jpg, id=1158, 1284.8pt x 722.7pt>
+File: 2022//figures/predictedGesture_ok.jpg Graphic file (type jpg)
+<use 2022//figures/predictedGesture_ok.jpg>
+Package pdftex.def Info: 2022//figures/predictedGesture_ok.jpg  used on input line 126.
+(pdftex.def)             Requested size: 290.22107pt x 163.2511pt.
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[56
+
+ <./2022//figures/gesture_recognizer_loss_curve.png>] [57 <./2022//figures/predictedGesture_rockon.jpg> <./2022//figures/predictedGesture_one.jpg> <./2022//figures/predictedGesture_peace.jpg>] [58 <./2022//figures/predictedGesture_ok.jpg>]
+Underfull \hbox (badness 10000) in paragraph at lines 135--136
+
+ []
+
+<2022//figures/kinect_filter_edges.png, id=1181, 1285.80376pt x 509.905pt>
+File: 2022//figures/kinect_filter_edges.png Graphic file (type png)
+<use 2022//figures/kinect_filter_edges.png>
+Package pdftex.def Info: 2022//figures/kinect_filter_edges.png  used on input line 141.
+(pdftex.def)             Requested size: 435.32422pt x 172.63403pt.
+[59
+
+ <./2022//figures/kinect_filter_edges.png>]
+<2022//figures/kinect_colormap.png, id=1192, 638.385pt x 478.78876pt>
+File: 2022//figures/kinect_colormap.png Graphic file (type png)
+<use 2022//figures/kinect_colormap.png>
+Package pdftex.def Info: 2022//figures/kinect_colormap.png  used on input line 159.
+(pdftex.def)             Requested size: 290.22107pt x 217.66658pt.
+ [60 <./2022//figures/kinect_colormap.png>]) (./2022/202208.tex [61
+
+]
+Chapter 6.
+
+Overfull \hbox (30.0pt too wide) in paragraph at lines 1--1
+|[] 
+ []
+
+[62
+
+] [63]
+<2022//figures/opengl_cube_coordinate_system.png, id=1216, 803.0pt x 627.34375pt>
+File: 2022//figures/opengl_cube_coordinate_system.png Graphic file (type png)
+<use 2022//figures/opengl_cube_coordinate_system.png>
+Package pdftex.def Info: 2022//figures/opengl_cube_coordinate_system.png  used on input line 30.
+(pdftex.def)             Requested size: 338.58632pt x 264.52597pt.
+ [64 <./2022//figures/opengl_cube_coordinate_system.png>] [65
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 46--47
+
+ []
+
+[66
+
+]
+<2022//figures/kinect_segment1.png, id=1239, 647.41875pt x 516.93124pt>
+File: 2022//figures/kinect_segment1.png Graphic file (type png)
+<use 2022//figures/kinect_segment1.png>
+Package pdftex.def Info: 2022//figures/kinect_segment1.png  used on input line 61.
+(pdftex.def)             Requested size: 338.58632pt x 270.3439pt.
+<2022//figures/kinect_segment2.png, id=1240, 653.44125pt x 516.93124pt>
+File: 2022//figures/kinect_segment2.png Graphic file (type png)
+<use 2022//figures/kinect_segment2.png>
+Package pdftex.def Info: 2022//figures/kinect_segment2.png  used on input line 68.
+(pdftex.def)             Requested size: 338.58632pt x 267.85138pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<2022//figures/layers_gesture_predictor1.png, id=1243, 595.22375pt x 371.3875pt>
+File: 2022//figures/layers_gesture_predictor1.png Graphic file (type png)
+<use 2022//figures/layers_gesture_predictor1.png>
+Package pdftex.def Info: 2022//figures/layers_gesture_predictor1.png  used on input line 77.
+(pdftex.def)             Requested size: 338.58632pt x 211.25671pt.
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<2022//figures/layers_gesture_predictor2.png, id=1244, 599.23875pt x 367.3725pt>
+File: 2022//figures/layers_gesture_predictor2.png Graphic file (type png)
+<use 2022//figures/layers_gesture_predictor2.png>
+Package pdftex.def Info: 2022//figures/layers_gesture_predictor2.png  used on input line 84.
+(pdftex.def)             Requested size: 338.58632pt x 207.57704pt.
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[67
+
+ <./2022//figures/kinect_segment1.png>] [68 <./2022//figures/kinect_segment2.png> <./2022//figures/layers_gesture_predictor1.png>] [69 <./2022//figures/layers_gesture_predictor2.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 98--99
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 100--101
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 102--103
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 104--105
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 106--107
+
+ []
+
+[70
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 108--109
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 110--111
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 114--115
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 116--117
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 119--120
+
+ []
+
+[71] [72]
+Underfull \hbox (badness 10000) in paragraph at lines 129--130
+
+ []
+
+<2022//figures/Proposed Collision Avoidance Algorithm.png, id=1316, 191.71625pt x 522.95375pt>
+File: 2022//figures/Proposed Collision Avoidance Algorithm.png Graphic file (type png)
+<use 2022//figures/Proposed Collision Avoidance Algorithm.png>
+Package pdftex.def Info: 2022//figures/Proposed Collision Avoidance Algorithm.png  used on input line 135.
+(pdftex.def)             Requested size: 96.73788pt x 263.8781pt.
+<2022//figures/Ycbcr_hands.png, id=1320, 790.955pt x 447.6725pt>
+File: 2022//figures/Ycbcr_hands.png Graphic file (type png)
+<use 2022//figures/Ycbcr_hands.png>
+Package pdftex.def Info: 2022//figures/Ycbcr_hands.png  used on input line 144.
+(pdftex.def)             Requested size: 338.58632pt x 191.63472pt.
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<2022//figures/Ycbcr_segmentation.png, id=1321, 1274.7625pt x 710.655pt>
+File: 2022//figures/Ycbcr_segmentation.png Graphic file (type png)
+<use 2022//figures/Ycbcr_segmentation.png>
+Package pdftex.def Info: 2022//figures/Ycbcr_segmentation.png  used on input line 151.
+(pdftex.def)             Requested size: 338.58632pt x 188.75642pt.
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[73
+
+ <./2022//figures/Proposed Collision Avoidance Algorithm.png>] [74 <./2022//figures/Ycbcr_hands.png> <./2022//figures/Ycbcr_segmentation.png>]
+<2022//figures/handwritten_notes_9_aug.jpg, id=1340, 3468.96pt x 4625.28pt>
+File: 2022//figures/handwritten_notes_9_aug.jpg Graphic file (type jpg)
+<use 2022//figures/handwritten_notes_9_aug.jpg>
+Package pdftex.def Info: 2022//figures/handwritten_notes_9_aug.jpg  used on input line 164.
+(pdftex.def)             Requested size: 338.58632pt x 451.4041pt.
+ [75
+
+ <./2022//figures/handwritten_notes_9_aug.jpg>]
+Underfull \hbox (badness 10000) in paragraph at lines 175--176
+
+ []
+
+<2022//figures/tensorflow_open_hand_fist_arch.png, id=1351, 599.23875pt x 445.665pt>
+File: 2022//figures/tensorflow_open_hand_fist_arch.png Graphic file (type png)
+<use 2022//figures/tensorflow_open_hand_fist_arch.png>
+Package pdftex.def Info: 2022//figures/tensorflow_open_hand_fist_arch.png  used on input line 181.
+(pdftex.def)             Requested size: 290.22107pt x 215.84805pt.
+<2022//figures/tensorflow_open_hand_fist_accuracy.png, id=1352, 854.19125pt x 152.57pt>
+File: 2022//figures/tensorflow_open_hand_fist_accuracy.png Graphic file (type png)
+<use 2022//figures/tensorflow_open_hand_fist_accuracy.png>
+Package pdftex.def Info: 2022//figures/tensorflow_open_hand_fist_accuracy.png  used on input line 188.
+(pdftex.def)             Requested size: 338.58632pt x 60.47517pt.
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<2022//figures/tensorflow_open_hand_fist_prediction1.png, id=1353, 431.6125pt x 334.24875pt>
+File: 2022//figures/tensorflow_open_hand_fist_prediction1.png Graphic file (type png)
+<use 2022//figures/tensorflow_open_hand_fist_prediction1.png>
+Package pdftex.def Info: 2022//figures/tensorflow_open_hand_fist_prediction1.png  used on input line 195.
+(pdftex.def)             Requested size: 290.22107pt x 224.76152pt.
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<2022//figures/tensorflow_open_hand_fist_prediction2.png, id=1354, 426.59375pt x 322.20375pt>
+File: 2022//figures/tensorflow_open_hand_fist_prediction2.png Graphic file (type png)
+<use 2022//figures/tensorflow_open_hand_fist_prediction2.png>
+Package pdftex.def Info: 2022//figures/tensorflow_open_hand_fist_prediction2.png  used on input line 202.
+(pdftex.def)             Requested size: 290.22107pt x 219.21364pt.
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[76
+
+ <./2022//figures/tensorflow_open_hand_fist_arch.png>]
+<2022//figures/NN_segmented_edge_detected.png, id=1368, 158.5925pt x 118.4425pt>
+File: 2022//figures/NN_segmented_edge_detected.png Graphic file (type png)
+<use 2022//figures/NN_segmented_edge_detected.png>
+Package pdftex.def Info: 2022//figures/NN_segmented_edge_detected.png  used on input line 214.
+(pdftex.def)             Requested size: 290.22107pt x 216.78738pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<2022//figures/hsv_segmentation_fast.png, id=1369, 903.375pt x 588.1975pt>
+File: 2022//figures/hsv_segmentation_fast.png Graphic file (type png)
+<use 2022//figures/hsv_segmentation_fast.png>
+Package pdftex.def Info: 2022//figures/hsv_segmentation_fast.png  used on input line 222.
+(pdftex.def)             Requested size: 290.22107pt x 188.97198pt.
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<2022//figures/ycbcr_segmentation_fast.png, id=1370, 864.22874pt x 638.385pt>
+File: 2022//figures/ycbcr_segmentation_fast.png Graphic file (type png)
+<use 2022//figures/ycbcr_segmentation_fast.png>
+Package pdftex.def Info: 2022//figures/ycbcr_segmentation_fast.png  used on input line 229.
+(pdftex.def)             Requested size: 290.22107pt x 214.379pt.
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[77 <./2022//figures/tensorflow_open_hand_fist_accuracy.png> <./2022//figures/tensorflow_open_hand_fist_prediction1.png>] [78 <./2022//figures/tensorflow_open_hand_fist_prediction2.png> <./2022//figures/NN_segmented_edge_detected.png (PNG copy)>] [79 <./2022//figures/hsv_segmentation_fast.png> <./2022//figures/ycbcr_segmentation_fast.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 240--241
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 242--243
+
+ []
+
+<2022//figures/network_skin_segmented_input.png, id=1396, 158.5925pt x 118.4425pt>
+File: 2022//figures/network_skin_segmented_input.png Graphic file (type png)
+<use 2022//figures/network_skin_segmented_input.png>
+Package pdftex.def Info: 2022//figures/network_skin_segmented_input.png  used on input line 255.
+(pdftex.def)             Requested size: 145.11053pt x 108.38284pt.
+<2022//figures/error_segmentation_2.png, id=1399, 1371.1225pt x 379.4175pt>
+File: 2022//figures/error_segmentation_2.png Graphic file (type png)
+<use 2022//figures/error_segmentation_2.png>
+Package pdftex.def Info: 2022//figures/error_segmentation_2.png  used on input line 264.
+(pdftex.def)             Requested size: 483.69687pt x 133.846pt.
+[80
+
+ <./2022//figures/network_skin_segmented_input.png (PNG copy)>]
+<2022//figures/error_segmentation.png, id=1408, 158.5925pt x 118.4425pt>
+File: 2022//figures/error_segmentation.png Graphic file (type png)
+<use 2022//figures/error_segmentation.png>
+Package pdftex.def Info: 2022//figures/error_segmentation.png  used on input line 271.
+(pdftex.def)             Requested size: 290.22107pt x 216.78738pt.
+ [81 <./2022//figures/error_segmentation_2.png> <./2022//figures/error_segmentation.png (PNG copy)>]
+<2022//figures/OpenGL_mediapipe_prototype_pinky_tracker.png, id=1416, 779.91376pt x 586.19pt>
+File: 2022//figures/OpenGL_mediapipe_prototype_pinky_tracker.png Graphic file (type png)
+<use 2022//figures/OpenGL_mediapipe_prototype_pinky_tracker.png>
+Package pdftex.def Info: 2022//figures/OpenGL_mediapipe_prototype_pinky_tracker.png  used on input line 288.
+(pdftex.def)             Requested size: 290.22107pt x 218.13019pt.
+<2022//figures/OpenGL_tensorflow_fist_open_hand.png, id=1418, 803.0pt x 713.66624pt>
+File: 2022//figures/OpenGL_tensorflow_fist_open_hand.png Graphic file (type png)
+<use 2022//figures/OpenGL_tensorflow_fist_open_hand.png>
+Package pdftex.def Info: 2022//figures/OpenGL_tensorflow_fist_open_hand.png  used on input line 297.
+(pdftex.def)             Requested size: 290.22107pt x 257.94327pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[82
+
+ <./2022//figures/OpenGL_mediapipe_prototype_pinky_tracker.png>]
+<2022//figures/OpenGL_Kinect_collision_avoidance.png, id=1428, 977.6525pt x 646.415pt>
+File: 2022//figures/OpenGL_Kinect_collision_avoidance.png Graphic file (type png)
+<use 2022//figures/OpenGL_Kinect_collision_avoidance.png>
+Package pdftex.def Info: 2022//figures/OpenGL_Kinect_collision_avoidance.png  used on input line 306.
+(pdftex.def)             Requested size: 435.32422pt x 287.83624pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<2022//figures/camera_controller_exposure_settings.png, id=1430, 1102.1175pt x 693.59125pt>
+File: 2022//figures/camera_controller_exposure_settings.png Graphic file (type png)
+<use 2022//figures/camera_controller_exposure_settings.png>
+Package pdftex.def Info: 2022//figures/camera_controller_exposure_settings.png  used on input line 315.
+(pdftex.def)             Requested size: 435.32422pt x 273.96025pt.
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[83 <./2022//figures/OpenGL_tensorflow_fist_open_hand.png>] [84 <./2022//figures/OpenGL_Kinect_collision_avoidance.png> <./2022//figures/camera_controller_exposure_settings.png>]
+<2022//figures/proposed_camera_setup.jpg, id=1448, 4625.28pt x 3468.96pt>
+File: 2022//figures/proposed_camera_setup.jpg Graphic file (type jpg)
+<use 2022//figures/proposed_camera_setup.jpg>
+Package pdftex.def Info: 2022//figures/proposed_camera_setup.jpg  used on input line 328.
+(pdftex.def)             Requested size: 338.58632pt x 253.9148pt.
+<2022//figures/topdown_view.png, id=1449, 637.38126pt x 486.81876pt>
+File: 2022//figures/topdown_view.png Graphic file (type png)
+<use 2022//figures/topdown_view.png>
+Package pdftex.def Info: 2022//figures/topdown_view.png  used on input line 335.
+(pdftex.def)             Requested size: 338.58632pt x 258.60696pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[85
+
+ <./2022//figures/proposed_camera_setup.jpg>] [86 <./2022//figures/topdown_view.png>]
+<2022//figures/hand_locator_tool.png, id=1466, 627.34375pt x 466.74374pt>
+File: 2022//figures/hand_locator_tool.png Graphic file (type png)
+<use 2022//figures/hand_locator_tool.png>
+Package pdftex.def Info: 2022//figures/hand_locator_tool.png  used on input line 350.
+(pdftex.def)             Requested size: 338.58632pt x 251.9168pt.
+<2022//figures/heatmap_hand_detector.png, id=1468, 1210.5225pt x 480.79625pt>
+File: 2022//figures/heatmap_hand_detector.png Graphic file (type png)
+<use 2022//figures/heatmap_hand_detector.png>
+Package pdftex.def Info: 2022//figures/heatmap_hand_detector.png  used on input line 359.
+(pdftex.def)             Requested size: 338.58632pt x 134.4753pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[87
+
+ <./2022//figures/hand_locator_tool.png>] [88 <./2022//figures/heatmap_hand_detector.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 372--373
+
+ []
+
+<2022//figures/hand_detection_first_principles.png, id=1484, 638.385pt x 274.02374pt>
+File: 2022//figures/hand_detection_first_principles.png Graphic file (type png)
+<use 2022//figures/hand_detection_first_principles.png>
+Package pdftex.def Info: 2022//figures/hand_detection_first_principles.png  used on input line 378.
+(pdftex.def)             Requested size: 338.58632pt x 145.33641pt.
+[89
+
+ <./2022//figures/hand_detection_first_principles.png>]
+<2022//figures/kinect_world_coords_planning.jpg, id=1493, 4625.28pt x 3468.96pt>
+File: 2022//figures/kinect_world_coords_planning.jpg Graphic file (type jpg)
+<use 2022//figures/kinect_world_coords_planning.jpg>
+Package pdftex.def Info: 2022//figures/kinect_world_coords_planning.jpg  used on input line 393.
+(pdftex.def)             Requested size: 338.58632pt x 253.9148pt.
+ [90
+
+ <./2022//figures/kinect_world_coords_planning.jpg>]
+<2022//figures/OpenCV_cube_rendering.png, id=1501, 222.8325pt x 176.66pt>
+File: 2022//figures/OpenCV_cube_rendering.png Graphic file (type png)
+<use 2022//figures/OpenCV_cube_rendering.png>
+Package pdftex.def Info: 2022//figures/OpenCV_cube_rendering.png  used on input line 406.
+(pdftex.def)             Requested size: 338.58632pt x 268.4505pt.
+ [91
+
+ <./2022//figures/OpenCV_cube_rendering.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 419--420
+
+ []
+
+[92
+
+]
+<2022//figures/hand_direction_NN_first_attempt.png, id=1516, 524.96124pt x 625.33624pt>
+File: 2022//figures/hand_direction_NN_first_attempt.png Graphic file (type png)
+<use 2022//figures/hand_direction_NN_first_attempt.png>
+Package pdftex.def Info: 2022//figures/hand_direction_NN_first_attempt.png  used on input line 434.
+(pdftex.def)             Requested size: 338.58632pt x 403.33401pt.
+ [93
+
+ <./2022//figures/hand_direction_NN_first_attempt.png>]
+<2022//figures/OpenGL_tensorflow_open_hand_fist_grabber.png, id=1525, 775.89874pt x 588.1975pt>
+File: 2022//figures/OpenGL_tensorflow_open_hand_fist_grabber.png Graphic file (type png)
+<use 2022//figures/OpenGL_tensorflow_open_hand_fist_grabber.png>
+Package pdftex.def Info: 2022//figures/OpenGL_tensorflow_open_hand_fist_grabber.png  used on input line 443.
+(pdftex.def)             Requested size: 338.58632pt x 256.68059pt.
+) (./2022/202209.tex [94 <./2022//figures/OpenGL_tensorflow_open_hand_fist_grabber.png>]
+Chapter 7.
+
+Overfull \hbox (30.0pt too wide) in paragraph at lines 1--1
+|[] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 9--10
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 11--12
+
+ []
+
+[95
+
+]
+<2022//figures/OpenGLCube_FP_NN_Prototype.png, id=1538, 837.1275pt x 830.10126pt>
+File: 2022//figures/OpenGLCube_FP_NN_Prototype.png Graphic file (type png)
+<use 2022//figures/OpenGLCube_FP_NN_Prototype.png>
+Package pdftex.def Info: 2022//figures/OpenGLCube_FP_NN_Prototype.png  used on input line 17.
+(pdftex.def)             Requested size: 338.58632pt x 335.73318pt.
+ [96 <./2022//figures/OpenGLCube_FP_NN_Prototype.png>]
+<2022//figures/kinect_side_hand_tracking.png, id=1547, 646.415pt x 538.01pt>
+File: 2022//figures/kinect_side_hand_tracking.png Graphic file (type png)
+<use 2022//figures/kinect_side_hand_tracking.png>
+Package pdftex.def Info: 2022//figures/kinect_side_hand_tracking.png  used on input line 34.
+(pdftex.def)             Requested size: 338.58632pt x 281.80273pt.
+ [97
+
+ <./2022//figures/kinect_side_hand_tracking.png>]
+<2022//figures/smaller_image_prediction_time.png, id=1557, 494.84875pt x 130.4875pt>
+File: 2022//figures/smaller_image_prediction_time.png Graphic file (type png)
+<use 2022//figures/smaller_image_prediction_time.png>
+Package pdftex.def Info: 2022//figures/smaller_image_prediction_time.png  used on input line 47.
+(pdftex.def)             Requested size: 338.58632pt x 89.28185pt.
+ [98
+
+ <./2022//figures/smaller_image_prediction_time.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 56--57
+
+ []
+
+<2022//figures/integrated_prototpe_1.png, id=1566, 800.9925pt x 627.34375pt>
+File: 2022//figures/integrated_prototpe_1.png Graphic file (type png)
+<use 2022//figures/integrated_prototpe_1.png>
+Package pdftex.def Info: 2022//figures/integrated_prototpe_1.png  used on input line 62.
+(pdftex.def)             Requested size: 338.58632pt x 265.18648pt.
+<2022//figures/integrated_nn_speed.png, id=1570, 313.17pt x 169.63374pt>
+File: 2022//figures/integrated_nn_speed.png Graphic file (type png)
+<use 2022//figures/integrated_nn_speed.png>
+Package pdftex.def Info: 2022//figures/integrated_nn_speed.png  used on input line 71.
+(pdftex.def)             Requested size: 193.47578pt x 104.80168pt.
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<2022//figures/tf_directions_accuracy.png, id=1571, 1133.23375pt x 226.8475pt>
+File: 2022//figures/tf_directions_accuracy.png Graphic file (type png)
+<use 2022//figures/tf_directions_accuracy.png>
+Package pdftex.def Info: 2022//figures/tf_directions_accuracy.png  used on input line 78.
+(pdftex.def)             Requested size: 338.58632pt x 67.77785pt.
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<2022//figures/tf_side_down_up_accuracy.png, id=1572, 1123.19624pt x 204.765pt>
+File: 2022//figures/tf_side_down_up_accuracy.png Graphic file (type png)
+<use 2022//figures/tf_side_down_up_accuracy.png>
+Package pdftex.def Info: 2022//figures/tf_side_down_up_accuracy.png  used on input line 85.
+(pdftex.def)             Requested size: 338.58632pt x 61.72366pt.
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<2022//figures/tf_open_fist_accuracy.png, id=1573, 1125.20375pt x 169.63374pt>
+File: 2022//figures/tf_open_fist_accuracy.png Graphic file (type png)
+<use 2022//figures/tf_open_fist_accuracy.png>
+Package pdftex.def Info: 2022//figures/tf_open_fist_accuracy.png  used on input line 92.
+(pdftex.def)             Requested size: 338.58632pt x 51.04321pt.
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+) (./2022/202210.tex [99
+
+ <./2022//figures/integrated_prototpe_1.png>] [100 <./2022//figures/integrated_nn_speed.png> <./2022//figures/tf_directions_accuracy.png> <./2022//figures/tf_side_down_up_accuracy.png> <./2022//figures/tf_open_fist_accuracy.png>]
+Chapter 8.
+
+Overfull \hbox (30.0pt too wide) in paragraph at lines 1--1
+|[] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 7--8
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 9--10
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 11--12
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 13--14
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 15--16
+
+ []
+
+[101
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 17--18
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 19--20
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 21--22
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 23--24
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 25--26
+
+ []
+
+[102]
+Underfull \hbox (badness 10000) in paragraph at lines 27--28
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 29--30
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 31--32
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 33--34
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 35--36
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 37--38
+
+ []
+
+[103]
+Underfull \hbox (badness 10000) in paragraph at lines 39--40
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 41--42
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 43--44
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 45--46
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 47--48
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 49--50
+
+ []
+
+[104]
+Underfull \hbox (badness 10000) in paragraph at lines 51--52
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 53--54
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 55--56
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 57--58
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 59--60
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 61--62
+
+ []
+
+[105] [106]
+Underfull \hbox (badness 10000) in paragraph at lines 69--70
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 71--72
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 73--74
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 75--76
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 77--78
+
+ []
+
+[107
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 79--80
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 81--82
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 83--84
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 85--86
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 89--90
+
+ []
+
+[108]
+Underfull \hbox (badness 10000) in paragraph at lines 91--92
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 93--94
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 95--96
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 97--98
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 99--100
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 101--102
+
+ []
+
+[109]
+Underfull \hbox (badness 10000) in paragraph at lines 103--104
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 105--106
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 107--108
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 109--110
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 111--112
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 113--114
+
+ []
+
+[110]
+Underfull \hbox (badness 10000) in paragraph at lines 115--116
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 117--118
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 119--120
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 121--122
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 123--124
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 125--126
+
+ []
+
+[111]
+Underfull \hbox (badness 10000) in paragraph at lines 127--128
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 129--130
+
+ []
+
+) [112] [113
+
+] (./acros.tex [114
+
+])
+<2022/figures/appendix/email_embedded.png, id=1722, 1105.12875pt x 545.03625pt>
+File: 2022/figures/appendix/email_embedded.png Graphic file (type png)
+<use 2022/figures/appendix/email_embedded.png>
+Package pdftex.def Info: 2022/figures/appendix/email_embedded.png  used on input line 85.
+(pdftex.def)             Requested size: 435.32422pt x 214.69232pt.
+ [115 <./2022/figures/appendix/email_embedded.png>] (./labbook.bbl (./labbook.brf)
+\tf@brf=\write9
+\openout9 = `labbook.brf'.
+
+
+Overfull \hbox (30.0pt too wide) in paragraph at lines 1--1
+|[] 
+ []
+
+[116
+
+] [117]) [118] (./labbook.ind) 
+AED: lastpage setting LastPage
+(./labbook.aux)
+Package rerunfilecheck Info: File `labbook.out' has not changed.
+(rerunfilecheck)             Checksum: D91BCD839E0112A388EE0167485AEF4A;21134.
+Package rerunfilecheck Info: File `labbook.brf' has not changed.
+(rerunfilecheck)             Checksum: 1594C67C1010F18FE8A5F9C54D464CC7;4187.
+ ) 
+Here is how much of TeX's memory you used:
+ 51132 strings out of 478276
+ 1134895 string characters out of 5846490
+ 1797665 words of memory out of 5000000
+ 67397 multiletter control sequences out of 15000+600000
+ 660379 words of font info for 415 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 102i,12n,131p,1642b,1246s stack positions out of 5000i,500n,10000p,200000b,80000s
+{/usr/local/texlive/2021/texmf-dist/fonts/enc/dvips/base/8r.enc}{/usr/local/texlive/2021/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc}{/usr/local/texlive/2021/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc}</usr/local/texlive/2021/texmf-dist/fonts/type1/bitstrea/charter/bchr8a.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/lm/lmss10.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/lm/lmssbx10.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/adobe/utopia/putr8a.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/cm-super/sfbbx10.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/cm-super/sfbmr10.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/urw/avantgar/uagd8a.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/urw/avantgar/uagk8a.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/urw/avantgar/uagko8a.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/urw/courier/ucrr8a.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/urw/helvetic/uhvb8a.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/urw/helvetic/uhvr8a.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/urw/palatino/uplr8a.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
+Output written on labbook.pdf (118 pages, 92817784 bytes).
+PDF statistics:
+ 1984 PDF objects out of 2073 (max. 8388607)
+ 1637 compressed objects within 17 object streams
+ 366 named destinations out of 1000 (max. 500000)
+ 104965 words of extra memory for PDF output out of 106986 (max. 10000000)
+

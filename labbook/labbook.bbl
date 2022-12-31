@@ -1,0 +1,160 @@
+\begin{thebibliography}{10}
+
+\bibitem{Du2Net}
+Y.~Zhang, N.~Wadhwa, S.~Orts-Escolano, C.~H{\"a}ne, S.~Fanello, and R.~Garg,
+  ``Du2net: Learning depth estimation from dual-cameras and dual-pixels,'' in
+  {\em Computer Vision -- ECCV 2020} (A.~Vedaldi, H.~Bischof, T.~Brox, and
+  J.-M. Frahm, eds.), (Cham), pp.~582--598, Springer International Publishing,
+  2020.
+
+\bibitem{hand_ar_shen}
+Y.~Shen, S.~K. Ong, and A.~Y.~C. Nee, ``Vision-based hand interaction in
+  augmented reality environment.,'' {\em International Journal of
+  Human-Computer Interaction}, vol.~27, no.~6, pp.~523 -- 544, 2011.
+
+\bibitem{canterbury_hand_ar}
+M.~Billinghurst, T.~Piumsomboon, and H.~Bai, ``Hands in space: Gesture
+  interaction with augmented-reality interfaces,'' {\em IEEE Computer Graphics
+  and Applications}, vol.~34, no.~1, pp.~77--80, 2014.
+
+\bibitem{kim_leap_ar}
+M.~Kim and J.~Y. Lee, ``Touch and hand gesture-based interactions for directly
+  manipulating 3d virtual objects in mobile augmented reality,'' {\em
+  Multimedia Tools and Applications}, vol.~75, pp.~16529--16550, Dec 2016.
+
+\bibitem{lee_hand_ar}
+T.~Lee and T.~Hollerer, ``Multithreaded hybrid feature tracking for markerless
+  augmented reality,'' {\em IEEE Transactions on Visualization and Computer
+  Graphics}, vol.~15, no.~3, pp.~355--368, 2009.
+
+\bibitem{jones_skin_color}
+M.~Jones and J.~Rehg, ``Statistical color models with application to skin
+  detection,'' in {\em Proceedings. 1999 IEEE Computer Society Conference on
+  Computer Vision and Pattern Recognition (Cat. No PR00149)}, vol.~1,
+  pp.~274--280 Vol. 1, 1999.
+
+\bibitem{drones_hololens}
+K.~Konstantoudakis, K.~Christaki, D.~Tsiakmakis, D.~Sainidis, G.~Albanis,
+  A.~Dimou, and P.~Daras, ``Drone control in ar: An intuitive system for
+  single-handed gesture control, drone tracking, and contextualized camera feed
+  visualization in augmented reality,'' {\em Drones}, vol.~6, no.~2, 2022.
+
+\bibitem{mediapipe_hands}
+F.~Zhang, V.~Bazarevsky, A.~Vakunov, A.~Tkachenka, G.~Sung, C.-L. Chang, and
+  M.~Grundmann, ``Mediapipe hands: On-device real-time hand tracking,'' 2020.
+
+\bibitem{deep_pose}
+A.~Toshev and C.~Szegedy, ``Deeppose: Human pose estimation via deep neural
+  networks,'' in {\em Proceedings of the IEEE conference on computer vision and
+  pattern recognition}, pp.~1653--1660, 2014.
+
+\bibitem{Australia_spiders}
+M.~Billinghurst, T.~Piumsomboon, and H.~Bai, ``Hands in space: Gesture
+  interaction with augmented-reality interfaces,'' {\em IEEE Computer Graphics
+  and Applications}, vol.~34, no.~1, pp.~77--80, 2014.
+
+\bibitem{markerless_ar}
+M.~Baldauf, S.~Zambanini, P.~Fr{\"o}hlich, and P.~Reichl, ``Markerless visual
+  fingertip detection for natural mobile device interaction,'' in {\em
+  Proceedings of the 13th International Conference on Human Computer
+  Interaction with Mobile Devices and Services}, pp.~539--544, 2011.
+
+\bibitem{ar_tabletop}
+H.~Kato, M.~Billinghurst, I.~Poupyrev, K.~Imamoto, and K.~Tachibana, ``Virtual
+  object manipulation on a table-top ar environment,'' in {\em Proceedings IEEE
+  and ACM International Symposium on Augmented Reality (ISAR 2000)},
+  pp.~111--119, Ieee, 2000.
+
+\bibitem{fingartips}
+V.~Buchmann, S.~Violich, M.~Billinghurst, and A.~Cockburn, ``Fingartips:
+  gesture based direct manipulation in augmented reality,'' in {\em Proceedings
+  of the 2nd international conference on Computer graphics and interactive
+  techniques in Australasia and South East Asia}, pp.~212--221, 2004.
+
+\bibitem{indian_sign_language}
+H.~F.~T. Ahmed, H.~Ahmad, K.~Narasingamurthi, H.~Harkat, and S.~K. Phang,
+  ``Df-wislr: Device-free wi-fi-based sign language recognition,'' {\em
+  Pervasive and Mobile Computing}, vol.~69, p.~101289, 2020.
+
+\bibitem{combined_sign_language}
+K.~Sadeddine, F.~Z. Chelali, R.~Djeradi, A.~Djeradi, and S.~Benabderrahmane,
+  ``Recognition of user-dependent and independent static hand gestures:
+  Application to sign language,'' {\em Journal of Visual Communication and
+  Image Representation}, vol.~79, p.~103193, 2021.
+
+\bibitem{hand_classical_approach}
+Y.~Shen, S.-K. Ong, and A.~Y. Nee, ``Vision-based hand interaction in augmented
+  reality environment,'' {\em Intl. Journal of Human--Computer Interaction},
+  vol.~27, no.~6, pp.~523--544, 2011.
+
+\bibitem{deep_cnn}
+Q.~Fan, X.~Shen, Y.~Hu, and C.~Yu, ``Simple very deep convolutional network for
+  robust hand pose regression from a single depth image,'' {\em Pattern
+  Recognition Letters}, vol.~119, pp.~205--213, 2019.
+\newblock Deep Learning for Pattern Recognition.
+
+\bibitem{hand_pose_rgb_camera}
+F.~Gomez-Donoso, S.~Orts-Escolano, and M.~Cazorla, ``Accurate and efficient 3d
+  hand pose regression for robot hand teleoperation using a monocular rgb
+  camera,'' {\em Expert Systems with Applications}, vol.~136, pp.~327--337,
+  2019.
+
+\bibitem{yolo_9000}
+J.~Redmon and A.~Farhadi, ``Yolo9000: better, faster, stronger,'' in {\em
+  Proceedings of the IEEE conference on computer vision and pattern
+  recognition}, pp.~7263--7271, 2017.
+
+\bibitem{resnet_50}
+K.~He, X.~Zhang, S.~Ren, and J.~Sun, ``Deep residual learning for image
+  recognition,'' in {\em Proceedings of the IEEE conference on computer vision
+  and pattern recognition}, pp.~770--778, 2016.
+
+\bibitem{pose_guided_cnn}
+X.~Chen, G.~Wang, H.~Guo, and C.~Zhang, ``Pose guided structured region
+  ensemble network for cascaded hand pose estimation,'' {\em Neurocomputing},
+  vol.~395, pp.~138--149, 2020.
+
+\bibitem{cnn_finetuning}
+L.~Ding, Y.~Wang, R.~Laganière, D.~Huang, and S.~Fu, ``A cnn model for real
+  time hand pose estimation,'' {\em Journal of Visual Communication and Image
+  Representation}, vol.~79, p.~103200, 2021.
+
+\bibitem{depth_heatmaps}
+L.~Ge, H.~Liang, J.~Yuan, and D.~Thalmann, ``Robust 3d hand pose estimation in
+  single depth images: from single-view cnn to multi-view cnns,'' in {\em
+  Proceedings of the IEEE conference on computer vision and pattern
+  recognition}, pp.~3593--3601, 2016.
+
+\bibitem{hand_pose_occlusions}
+M.-Y. Wu, P.-W. Ting, Y.-H. Tang, E.-T. Chou, and L.-C. Fu, ``Hand pose
+  estimation in object-interaction based on deep learning for virtual reality
+  applications,'' {\em Journal of Visual Communication and Image
+  Representation}, vol.~70, p.~102802, 2020.
+
+\bibitem{zfnet}
+M.~D. Zeiler and R.~Fergus, ``Visualizing and understanding convolutional
+  networks,'' in {\em European conference on computer vision}, pp.~818--833,
+  Springer, 2014.
+
+\bibitem{ransacpointcloud}
+R.~Schnabel, R.~Wahl, and R.~Klein, ``Efficient ransac for point-cloud shape
+  detection,'' in {\em Computer graphics forum}, vol.~26, pp.~214--226, Wiley
+  Online Library, 2007.
+
+\bibitem{snaptoreality}
+B.~Nuernberger, E.~Ofek, H.~Benko, and A.~D. Wilson, ``Snaptoreality: Aligning
+  augmented reality to the real world,'' in {\em Proceedings of the 2016 CHI
+  Conference on Human Factors in Computing Systems}, pp.~1233--1244, 2016.
+
+\bibitem{liu2019planercnn}
+C.~Liu, K.~Kim, J.~Gu, Y.~Furukawa, and J.~Kautz, ``Planercnn: 3d plane
+  detection and reconstruction from a single image,'' in {\em Proceedings of
+  the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
+  pp.~4450--4459, 2019.
+
+\bibitem{yang2010plane}
+M.~Y. Yang and W.~F{\"o}rstner, ``Plane detection in point cloud data,'' in
+  {\em Proceedings of the 2nd int conf on machine control guidance, Bonn},
+  vol.~1, pp.~95--104, 2010.
+
+\end{thebibliography}
